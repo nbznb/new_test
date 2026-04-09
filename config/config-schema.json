@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "User configuration for Follow USTC skill. Stored at ~/.follow-ustc/config.json",
+  "type": "object",
+  "properties": {
+    "platform": {
+      "type": "string",
+      "enum": ["openclaw", "other"],
+      "description": "Detected platform"
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en", "zh", "bilingual"],
+      "default": "zh",
+      "description": "Digest language"
+    },
+    "timezone": {
+      "type": "string",
+      "default": "Asia/Shanghai",
+      "description": "IANA timezone string"
+    },
+    "frequency": {
+      "type": "string",
+      "enum": ["daily", "weekly"],
+      "default": "daily",
+      "description": "How often to deliver the digest"
+    },
+    "deliveryTime": {
+      "type": "string",
+      "default": "08:00",
+      "description": "Time of day in HH:MM"
+    },
+    "weeklyDay": {
+      "type": "string",
+      "enum": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+      "default": "monday",
+      "description": "Day of week for weekly digests"
+    },
+    "delivery": {
+      "type": "object",
+      "properties": {
+        "method": {
+          "type": "string",
+          "enum": ["stdout", "telegram", "email"],
+          "default": "stdout"
+        },
+        "chatId": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        }
+      }
+    },
+    "officialFilters": {
+      "type": "object",
+      "description": "Filters applied to official content before digest generation",
+      "properties": {
+        "includeAcademies": {
+          "type": "array",
+          "description": "Whitelist of academy keys to include in official news. Empty means academy news is hidden.",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "onboardingComplete": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
