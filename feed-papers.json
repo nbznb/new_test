@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-04-10T07:47:52.714Z",
+  "generatedAt": "2026-04-11T07:05:22.107Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "大模型能“原地”改参数了！字节Seed&北大新论文：测试时推理无需加层重训练",
-      "url": "https://www.qbitai.com/2026/04/398741.html",
-      "publishedAt": "2026-04-10T06:12:47.000Z",
-      "summary": "即插即用"
+      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+      "url": "https://www.qbitai.com/2026/04/399473.html",
+      "publishedAt": "2026-04-11T02:19:13.000Z",
+      "summary": "所幸无人受伤"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克说漏嘴了！Claude Opus参数5T，Sonnet 1T",
-      "url": "https://www.qbitai.com/2026/04/398420.html",
-      "publishedAt": "2026-04-10T06:08:04.000Z",
-      "summary": "Grok 4.2总参数量0.5T"
+      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+      "url": "https://www.qbitai.com/2026/04/399417.html",
+      "publishedAt": "2026-04-11T02:07:08.000Z",
+      "summary": "10万小时数据集，00后创业灵初智能一战成名"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
-      "url": "https://www.qbitai.com/2026/04/398385.html",
-      "publishedAt": "2026-04-10T04:12:29.000Z",
-      "summary": "“这是我见过最严重的bug”"
+      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+      "url": "https://www.qbitai.com/2026/04/399393.html",
+      "publishedAt": "2026-04-11T01:23:42.000Z",
+      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
-      "url": "https://www.qbitai.com/2026/04/398181.html",
-      "publishedAt": "2026-04-10T02:20:00.000Z",
-      "summary": "真正成为品牌增长的共生大脑"
+      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+      "url": "https://www.qbitai.com/2026/04/399370.html",
+      "publishedAt": "2026-04-10T12:07:15.000Z",
+      "summary": "以1334Elo评分高居榜首"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-      "url": "https://www.qbitai.com/2026/04/398157.html",
-      "publishedAt": "2026-04-09T09:38:29.000Z",
-      "summary": "据传10号正式发布"
+      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+      "url": "https://www.qbitai.com/2026/04/399366.html",
+      "publishedAt": "2026-04-10T11:42:34.000Z",
+      "summary": "面向医生和医学生开放使用"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-      "url": "https://www.qbitai.com/2026/04/398140.html",
-      "publishedAt": "2026-04-09T07:08:02.000Z",
-      "summary": "全球首个消费级AI Agent Harness冲上热搜"
+      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
+      "url": "https://www.qbitai.com/2026/04/399351.html",
+      "publishedAt": "2026-04-10T10:32:05.000Z",
+      "summary": "技术的终极价值，在于实用"
     }
   ],
   "stats": {
