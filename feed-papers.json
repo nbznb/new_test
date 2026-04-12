@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-04-11T07:05:22.107Z",
+  "generatedAt": "2026-04-12T07:19:54.842Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-      "url": "https://www.qbitai.com/2026/04/399473.html",
-      "publishedAt": "2026-04-11T02:19:13.000Z",
-      "summary": "所幸无人受伤"
+      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
+      "url": "https://www.qbitai.com/2026/04/399681.html",
+      "publishedAt": "2026-04-12T06:06:38.000Z",
+      "summary": "可能是最有想象力的灵巧手公司之一"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "url": "https://www.qbitai.com/2026/04/399417.html",
-      "publishedAt": "2026-04-11T02:07:08.000Z",
-      "summary": "10万小时数据集，00后创业灵初智能一战成名"
+      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+      "url": "https://www.qbitai.com/2026/04/399675.html",
+      "publishedAt": "2026-04-11T10:46:34.000Z",
+      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "url": "https://www.qbitai.com/2026/04/399393.html",
-      "publishedAt": "2026-04-11T01:23:42.000Z",
-      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力"
+      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+      "url": "https://www.qbitai.com/2026/04/398869.html",
+      "publishedAt": "2026-04-10T09:31:57.000Z",
+      "summary": "勇闯北京晚高峰，实测舒服又轻松"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "url": "https://www.qbitai.com/2026/04/399370.html",
-      "publishedAt": "2026-04-10T12:07:15.000Z",
-      "summary": "以1334Elo评分高居榜首"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "url": "https://www.qbitai.com/2026/04/399366.html",
-      "publishedAt": "2026-04-10T11:42:34.000Z",
-      "summary": "面向医生和医学生开放使用"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
-      "url": "https://www.qbitai.com/2026/04/399351.html",
-      "publishedAt": "2026-04-10T10:32:05.000Z",
-      "summary": "技术的终极价值，在于实用"
+      "title": "奔驰崩了，在华销量大跌27%",
+      "url": "https://www.qbitai.com/2026/04/398823.html",
+      "publishedAt": "2026-04-10T09:11:11.000Z",
+      "summary": "年初降价原因找到了"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
