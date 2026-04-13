@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-04-12T07:19:54.842Z",
+  "generatedAt": "2026-04-13T08:09:44.556Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
-      "url": "https://www.qbitai.com/2026/04/399681.html",
-      "publishedAt": "2026-04-12T06:06:38.000Z",
-      "summary": "可能是最有想象力的灵巧手公司之一"
+      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
+      "url": "https://www.qbitai.com/2026/04/400522.html",
+      "publishedAt": "2026-04-13T06:57:28.000Z",
+      "summary": "一月标星6.66万+"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
-      "url": "https://www.qbitai.com/2026/04/399675.html",
-      "publishedAt": "2026-04-11T10:46:34.000Z",
-      "summary": "滴滴自动驾驶与广汽埃安联手打造的新一代Robotaxi车型R2"
+      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+      "url": "https://www.qbitai.com/2026/04/400500.html",
+      "publishedAt": "2026-04-13T05:41:15.000Z",
+      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-      "url": "https://www.qbitai.com/2026/04/398869.html",
-      "publishedAt": "2026-04-10T09:31:57.000Z",
-      "summary": "勇闯北京晚高峰，实测舒服又轻松"
+      "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+      "url": "https://www.qbitai.com/2026/04/400350.html",
+      "publishedAt": "2026-04-13T05:21:46.000Z",
+      "summary": "让小散有了「大师模型」。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "奔驰崩了，在华销量大跌27%",
-      "url": "https://www.qbitai.com/2026/04/398823.html",
-      "publishedAt": "2026-04-10T09:11:11.000Z",
-      "summary": "年初降价原因找到了"
+      "title": "「Claude Code之父」其实是野路子来的……",
+      "url": "https://www.qbitai.com/2026/04/400306.html",
+      "publishedAt": "2026-04-12T14:11:53.000Z",
+      "summary": "一生都在试图逃离原生公司（bushi）"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+      "url": "https://www.qbitai.com/2026/04/400197.html",
+      "publishedAt": "2026-04-12T14:06:46.000Z",
+      "summary": "有自己的网盘和邮箱，产出还能自动归档"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+      "url": "https://www.qbitai.com/2026/04/399996.html",
+      "publishedAt": "2026-04-12T14:02:36.000Z",
+      "summary": "HTML也能跑Doom游戏了？？"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
