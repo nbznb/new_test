@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-04-13T08:09:44.556Z",
+  "generatedAt": "2026-04-14T07:51:55.878Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
-      "url": "https://www.qbitai.com/2026/04/400522.html",
-      "publishedAt": "2026-04-13T06:57:28.000Z",
-      "summary": "一月标星6.66万+"
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "url": "https://www.qbitai.com/2026/04/401094.html",
+      "publishedAt": "2026-04-14T05:58:59.000Z",
+      "summary": "AI普及率正在历史性加速"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
-      "url": "https://www.qbitai.com/2026/04/400500.html",
-      "publishedAt": "2026-04-13T05:41:15.000Z",
-      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中"
+      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+      "url": "https://www.qbitai.com/2026/04/401065.html",
+      "publishedAt": "2026-04-14T05:39:06.000Z",
+      "summary": "团队即将发布最新成果"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
-      "url": "https://www.qbitai.com/2026/04/400350.html",
-      "publishedAt": "2026-04-13T05:21:46.000Z",
-      "summary": "让小散有了「大师模型」。"
+      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+      "url": "https://www.qbitai.com/2026/04/401047.html",
+      "publishedAt": "2026-04-14T04:31:03.000Z",
+      "summary": "把OpenClaw装进企业机房"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "「Claude Code之父」其实是野路子来的……",
-      "url": "https://www.qbitai.com/2026/04/400306.html",
-      "publishedAt": "2026-04-12T14:11:53.000Z",
-      "summary": "一生都在试图逃离原生公司（bushi）"
+      "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+      "url": "https://www.qbitai.com/2026/04/401041.html",
+      "publishedAt": "2026-04-14T02:48:22.000Z",
+      "summary": "支持从对话直接生成、编辑Excel文件"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
-      "url": "https://www.qbitai.com/2026/04/400197.html",
-      "publishedAt": "2026-04-12T14:06:46.000Z",
-      "summary": "有自己的网盘和邮箱，产出还能自动归档"
+      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
+      "url": "https://www.qbitai.com/2026/04/401011.html",
+      "publishedAt": "2026-04-13T10:35:36.000Z",
+      "summary": "火热申报中！截至4月27日。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
-      "url": "https://www.qbitai.com/2026/04/399996.html",
-      "publishedAt": "2026-04-12T14:02:36.000Z",
-      "summary": "HTML也能跑Doom游戏了？？"
+      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+      "url": "https://www.qbitai.com/2026/04/400567.html",
+      "publishedAt": "2026-04-13T08:44:22.000Z",
+      "summary": "拿下九家全球TOP 10车企"
     }
   ],
   "stats": {
