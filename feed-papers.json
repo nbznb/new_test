@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-04-17T07:53:03.305Z",
+  "generatedAt": "2026-04-18T07:13:54.283Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
-      "url": "https://www.qbitai.com/2026/04/402189.html",
-      "publishedAt": "2026-04-17T06:57:35.000Z",
-      "summary": "π0.7：具有涌现能力的可控模型"
+      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+      "url": "https://www.qbitai.com/2026/04/402636.html",
+      "publishedAt": "2026-04-18T01:10:09.000Z",
+      "summary": "不以尺寸定义汽车平台"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-      "url": "https://www.qbitai.com/2026/04/402186.html",
-      "publishedAt": "2026-04-17T05:52:13.000Z",
-      "summary": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻"
+      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+      "url": "https://www.qbitai.com/2026/04/402440.html",
+      "publishedAt": "2026-04-17T08:24:28.000Z",
+      "summary": "算力只需200TOPS"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
-      "url": "https://www.qbitai.com/2026/04/402158.html",
-      "publishedAt": "2026-04-17T03:30:27.000Z",
-      "summary": "空间智能的时代，才刚刚开始。"
+      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+      "url": "https://www.qbitai.com/2026/04/402388.html",
+      "publishedAt": "2026-04-17T07:37:14.000Z",
+      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
-      "url": "https://www.qbitai.com/2026/04/402088.html",
-      "publishedAt": "2026-04-17T02:16:36.000Z",
-      "summary": "推动“物理智能”的最终实现"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-      "url": "https://www.qbitai.com/2026/04/402085.html",
-      "publishedAt": "2026-04-16T13:36:09.000Z",
-      "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-      "url": "https://www.qbitai.com/2026/04/401741.html",
-      "publishedAt": "2026-04-16T13:04:18.000Z",
-      "summary": "发布一站式物理AI数据服务平台"
+      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
+      "url": "https://www.qbitai.com/2026/04/402329.html",
+      "publishedAt": "2026-04-17T07:08:17.000Z",
+      "summary": "Gemini Robotics主打空间推理的第三代模型。"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
