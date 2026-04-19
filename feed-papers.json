@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-04-18T07:13:54.283Z",
+  "generatedAt": "2026-04-19T07:25:02.766Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-      "url": "https://www.qbitai.com/2026/04/402636.html",
-      "publishedAt": "2026-04-18T01:10:09.000Z",
-      "summary": "不以尺寸定义汽车平台"
+      "title": "马斯克来抖音卖老干妈了？？",
+      "url": "https://www.qbitai.com/2026/04/403308.html",
+      "publishedAt": "2026-04-19T04:47:09.000Z",
+      "summary": "这将是一个虚拟与现实，彻底融合的世界"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-      "url": "https://www.qbitai.com/2026/04/402440.html",
-      "publishedAt": "2026-04-17T08:24:28.000Z",
-      "summary": "算力只需200TOPS"
+      "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+      "url": "https://www.qbitai.com/2026/04/403214.html",
+      "publishedAt": "2026-04-19T04:25:19.000Z",
+      "summary": "没有人工干预，没有预设脚本"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-      "url": "https://www.qbitai.com/2026/04/402388.html",
-      "publishedAt": "2026-04-17T07:37:14.000Z",
-      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手"
+      "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+      "url": "https://www.qbitai.com/2026/04/403210.html",
+      "publishedAt": "2026-04-19T04:14:11.000Z",
+      "summary": "万字实录在此"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-      "url": "https://www.qbitai.com/2026/04/402329.html",
-      "publishedAt": "2026-04-17T07:08:17.000Z",
-      "summary": "Gemini Robotics主打空间推理的第三代模型。"
+      "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+      "url": "https://www.qbitai.com/2026/04/403126.html",
+      "publishedAt": "2026-04-19T03:24:56.000Z",
+      "summary": "魏建军回应“接地气”：我农民出身"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "url": "https://www.qbitai.com/2026/04/402988.html",
+      "publishedAt": "2026-04-18T15:58:07.000Z",
+      "summary": "自然语言控制设备，零编程编排流程"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "url": "https://www.qbitai.com/2026/04/402965.html",
+      "publishedAt": "2026-04-18T15:48:50.000Z",
+      "summary": "企业如何安全落地龙虾？"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
