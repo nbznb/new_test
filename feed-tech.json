@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-04-20T08:13:38.565Z",
-  "tech": [],
+  "generatedAt": "2026-04-21T07:57:11.525Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "publishedAt": "2026-04-20T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
+      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
+      "publishedAt": "2026-04-20T10:00:00.000Z",
+      "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "publishedAt": "2026-04-20T09:00:00.000Z",
+      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters. Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 3
   }
 }

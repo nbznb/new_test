@@ -1,53 +1,62 @@
 {
-  "generatedAt": "2026-04-20T08:13:38.566Z",
+  "generatedAt": "2026-04-21T07:57:11.526Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
-      "url": "https://www.qbitai.com/2026/04/403543.html",
-      "publishedAt": "2026-04-20T05:34:32.000Z",
-      "summary": "苏度发布具身模型#Sudo R1"
+      "title": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+      "url": "https://www.qbitai.com/2026/04/403871.html",
+      "publishedAt": "2026-04-21T06:26:50.000Z",
+      "summary": "上线一周破万星"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Kimi新论文：把KVCache玩成新商业模式了",
-      "url": "https://www.qbitai.com/2026/04/403528.html",
-      "publishedAt": "2026-04-19T10:19:45.000Z",
-      "summary": "超长上下文福音"
+      "title": "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
+      "url": "https://www.qbitai.com/2026/04/403872.html",
+      "publishedAt": "2026-04-21T06:19:22.000Z",
+      "summary": "不做Robotaxi，专攻机场的L4公司要IPO了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
-      "url": "https://www.qbitai.com/2026/04/403226.html",
-      "publishedAt": "2026-04-19T10:13:54.000Z",
-      "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛"
+      "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
+      "url": "https://www.qbitai.com/2026/04/403867.html",
+      "publishedAt": "2026-04-21T04:57:31.000Z",
+      "summary": "于3月6日上线并开启小范围封测。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "大模型架构的下半场",
-      "url": "https://www.qbitai.com/2026/04/403515.html",
-      "publishedAt": "2026-04-19T10:12:10.000Z",
-      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力"
+      "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+      "url": "https://www.qbitai.com/2026/04/403859.html",
+      "publishedAt": "2026-04-21T04:54:43.000Z",
+      "summary": "当代码可以被生成，程序员还能做些什么？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
-      "url": "https://www.qbitai.com/2026/04/403505.html",
-      "publishedAt": "2026-04-19T07:50:32.000Z",
-      "summary": "打造出全球首个面向AGI的全栈具身技术体系。"
+      "title": "技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代",
+      "url": "https://www.qbitai.com/2026/04/403836.html",
+      "publishedAt": "2026-04-21T04:50:16.000Z",
+      "summary": "采用Token 计费模式"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
+      "url": "https://www.qbitai.com/2026/04/403825.html",
+      "publishedAt": "2026-04-21T04:33:09.000Z",
+      "summary": "教育+AI引领智能时代新范式"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   }
 }
