@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-04-21T07:57:11.526Z",
+  "generatedAt": "2026-04-22T07:53:41.467Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
-      "url": "https://www.qbitai.com/2026/04/403871.html",
-      "publishedAt": "2026-04-21T06:26:50.000Z",
-      "summary": "上线一周破万星"
+      "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
+      "url": "https://www.qbitai.com/2026/04/404604.html",
+      "publishedAt": "2026-04-22T07:17:04.000Z",
+      "summary": "已被CVPR 2026接收"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
-      "url": "https://www.qbitai.com/2026/04/403872.html",
-      "publishedAt": "2026-04-21T06:19:22.000Z",
-      "summary": "不做Robotaxi，专攻机场的L4公司要IPO了"
+      "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
+      "url": "https://www.qbitai.com/2026/04/404481.html",
+      "publishedAt": "2026-04-22T07:10:55.000Z",
+      "summary": "苹果版「顶尖AI人才计划」"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
-      "url": "https://www.qbitai.com/2026/04/403867.html",
-      "publishedAt": "2026-04-21T04:57:31.000Z",
-      "summary": "于3月6日上线并开启小范围封测。"
+      "title": "大厂AI抢人大战，从实习生开始",
+      "url": "https://www.qbitai.com/2026/04/404470.html",
+      "publishedAt": "2026-04-22T06:59:15.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
-      "url": "https://www.qbitai.com/2026/04/403859.html",
-      "publishedAt": "2026-04-21T04:54:43.000Z",
-      "summary": "当代码可以被生成，程序员还能做些什么？"
+      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
+      "url": "https://www.qbitai.com/2026/04/404446.html",
+      "publishedAt": "2026-04-22T05:49:56.000Z",
+      "summary": "首个世界统一模型，来了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "技术深度揭秘｜云知声U1-OCR架构升级 + API 开放，重构 OCR 3.0 时代",
-      "url": "https://www.qbitai.com/2026/04/403836.html",
-      "publishedAt": "2026-04-21T04:50:16.000Z",
-      "summary": "采用Token 计费模式"
+      "title": "从GPU到Token：AI基础设施竞争逻辑重构",
+      "url": "https://www.qbitai.com/2026/04/404440.html",
+      "publishedAt": "2026-04-22T04:48:03.000Z",
+      "summary": "商汤大装置已实践三年"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "天立启鸣AI研究院院长刘志毅，入选2025福布斯中国科创人物",
-      "url": "https://www.qbitai.com/2026/04/403825.html",
-      "publishedAt": "2026-04-21T04:33:09.000Z",
-      "summary": "教育+AI引领智能时代新范式"
+      "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
+      "url": "https://www.qbitai.com/2026/04/404420.html",
+      "publishedAt": "2026-04-22T04:12:45.000Z",
+      "summary": "发布安全白皮书与全系AI新品"
     }
   ],
   "stats": {
