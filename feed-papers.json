@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-04-22T07:53:41.467Z",
+  "generatedAt": "2026-04-23T08:00:31.625Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
-      "url": "https://www.qbitai.com/2026/04/404604.html",
-      "publishedAt": "2026-04-22T07:17:04.000Z",
-      "summary": "已被CVPR 2026接收"
+      "title": "Nature封面：机器人乒乓球干翻人类职业选手",
+      "url": "https://www.qbitai.com/2026/04/405370.html",
+      "publishedAt": "2026-04-23T06:45:53.000Z",
+      "summary": "能接旋球"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
-      "url": "https://www.qbitai.com/2026/04/404481.html",
-      "publishedAt": "2026-04-22T07:10:55.000Z",
-      "summary": "苹果版「顶尖AI人才计划」"
+      "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
+      "url": "https://www.qbitai.com/2026/04/405358.html",
+      "publishedAt": "2026-04-23T05:13:10.000Z",
+      "summary": "面向全球创作者的AI视频作品征集同步开启"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "大厂AI抢人大战，从实习生开始",
-      "url": "https://www.qbitai.com/2026/04/404470.html",
-      "publishedAt": "2026-04-22T06:59:15.000Z",
+      "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
+      "url": "https://www.qbitai.com/2026/04/405325.html",
+      "publishedAt": "2026-04-23T00:57:43.000Z",
+      "summary": "这次，智平方玩了个大的"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "挖漏洞何必Mythos，国产智能体早跑通了",
+      "url": "https://www.qbitai.com/2026/04/405299.html",
+      "publishedAt": "2026-04-23T00:43:41.000Z",
+      "summary": "360智能体已经开始批量挖洞"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺",
+      "url": "https://www.qbitai.com/2026/04/404721.html",
+      "publishedAt": "2026-04-22T14:26:18.000Z",
+      "summary": "智能车时代的Wintel已出现"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+      "url": "https://www.qbitai.com/2026/04/404713.html",
+      "publishedAt": "2026-04-22T13:15:52.000Z",
       "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
-      "url": "https://www.qbitai.com/2026/04/404446.html",
-      "publishedAt": "2026-04-22T05:49:56.000Z",
-      "summary": "首个世界统一模型，来了"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "从GPU到Token：AI基础设施竞争逻辑重构",
-      "url": "https://www.qbitai.com/2026/04/404440.html",
-      "publishedAt": "2026-04-22T04:48:03.000Z",
-      "summary": "商汤大装置已实践三年"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
-      "url": "https://www.qbitai.com/2026/04/404420.html",
-      "publishedAt": "2026-04-22T04:12:45.000Z",
-      "summary": "发布安全白皮书与全系AI新品"
     }
   ],
   "stats": {
