@@ -1,62 +1,26 @@
 {
-  "generatedAt": "2026-04-23T08:00:31.625Z",
+  "generatedAt": "2026-04-24T08:09:11.012Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "publishedAt": "2026-04-22T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…"
+      "title": "The Download: introducing the Nature issue",
+      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "publishedAt": "2026-04-23T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "publishedAt": "2026-04-22T10:05:06.000Z",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "3 things Michelle Kim is into right now",
-      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "One town’s scheme to get rid of its geese",
-      "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "There is no nature anymore",
-      "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Los Angeles is finally going underground",
-      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a…"
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "publishedAt": "2026-04-23T10:00:00.000Z",
+      "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in…"
     }
   ],
   "stats": {
-    "techItems": 6
+    "techItems": 2
   }
 }
