@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-04-26T07:44:36.177Z",
+  "generatedAt": "2026-04-27T08:31:08.761Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
-      "url": "https://www.qbitai.com/2026/04/407486.html",
-      "publishedAt": "2026-04-26T05:24:56.000Z",
-      "summary": "开源，是最好的探针"
+      "title": "地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图",
+      "url": "https://www.qbitai.com/2026/04/408031.html",
+      "publishedAt": "2026-04-27T08:06:49.000Z",
+      "summary": "懂路、懂人、懂用户、懂生活"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
-      "url": "https://www.qbitai.com/2026/04/407465.html",
-      "publishedAt": "2026-04-26T04:16:23.000Z",
-      "summary": "V4作者之一"
+      "title": "最性能、最智能的越野车！猛士M817 Ultimate于北京车展正式亮相",
+      "url": "https://www.qbitai.com/2026/04/408006.html",
+      "publishedAt": "2026-04-27T07:37:26.000Z",
+      "summary": "最强越野+最强智能"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-      "url": "https://www.qbitai.com/2026/04/407363.html",
-      "publishedAt": "2026-04-25T15:38:18.000Z",
-      "summary": "“为自动驾驶而来”"
+      "title": "哈弗“棱角精神”再加码！哈弗猛龙PLUS七座版亮相，预售价19.38万元起",
+      "url": "https://www.qbitai.com/2026/04/407919.html",
+      "publishedAt": "2026-04-27T07:10:26.000Z",
+      "summary": "“有棱角、敢探索、不妥协”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
-      "url": "https://www.qbitai.com/2026/04/407026.html",
-      "publishedAt": "2026-04-25T07:22:22.000Z",
-      "summary": "500TOPS上车世界模型"
+      "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
+      "url": "https://www.qbitai.com/2026/04/407975.html",
+      "publishedAt": "2026-04-27T06:46:41.000Z",
+      "summary": "机器人从“能思考”走向“能干活”"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
+      "url": "https://www.qbitai.com/2026/04/407972.html",
+      "publishedAt": "2026-04-27T06:42:14.000Z",
+      "summary": "面向普通用户开放"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Token驱动未来，城市如何抢占算力新赛道？",
+      "url": "https://www.qbitai.com/2026/04/407960.html",
+      "publishedAt": "2026-04-27T06:32:55.000Z",
+      "summary": "报名大会现场观摩"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
