@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-05-01T08:15:41.249Z",
+  "generatedAt": "2026-05-02T07:48:45.198Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412577.html",
-      "publishedAt": "2026-05-01T06:28:46.000Z",
-      "summary": "真机部署“零微调”"
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "publishedAt": "2026-05-02T03:30:12.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "url": "https://www.qbitai.com/2026/05/412447.html",
-      "publishedAt": "2026-05-01T06:21:38.000Z",
-      "summary": "瓜多到吃不完"
+      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+      "url": "https://www.qbitai.com/2026/05/412696.html",
+      "publishedAt": "2026-05-01T13:58:09.000Z",
+      "summary": "基于全栈国产化软硬件生态打造"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-      "url": "https://www.qbitai.com/2026/04/412041.html",
-      "publishedAt": "2026-04-30T12:04:32.000Z",
-      "summary": "牵引中国汽车“走出去”、“走上去”"
+      "title": "他用AI办了个音乐节，主题：别读博",
+      "url": "https://www.qbitai.com/2026/05/412597.html",
+      "publishedAt": "2026-05-01T13:20:15.000Z",
+      "summary": "一代科研人的赛博苦中作乐"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-      "url": "https://www.qbitai.com/2026/04/412021.html",
-      "publishedAt": "2026-04-30T11:38:10.000Z",
-      "summary": "42.8万元起售"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-      "url": "https://www.qbitai.com/2026/04/412018.html",
-      "publishedAt": "2026-04-30T09:16:56.000Z",
-      "summary": "Stripe推出由 Link 驱动的智能体钱包"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-      "url": "https://www.qbitai.com/2026/04/412015.html",
-      "publishedAt": "2026-04-30T09:08:31.000Z",
-      "summary": "从算力时代到智能时代，三大结构性变化"
+      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "publishedAt": "2026-05-01T11:00:05.000Z",
+      "summary": "都是Prefill的锅"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
