@@ -1,44 +1,26 @@
 {
-  "generatedAt": "2026-05-02T07:48:45.198Z",
+  "generatedAt": "2026-05-03T08:05:15.407Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://www.qbitai.com/2026/05/412713.html",
-      "publishedAt": "2026-05-02T03:30:12.000Z",
-      "summary": ""
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "publishedAt": "2026-05-03T03:56:44.000Z",
+      "summary": "与全球社区共同推动具身智能创新"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-      "url": "https://www.qbitai.com/2026/05/412696.html",
-      "publishedAt": "2026-05-01T13:58:09.000Z",
-      "summary": "基于全栈国产化软硬件生态打造"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "url": "https://www.qbitai.com/2026/05/412597.html",
-      "publishedAt": "2026-05-01T13:20:15.000Z",
-      "summary": "一代科研人的赛博苦中作乐"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
-      "url": "https://www.qbitai.com/2026/05/412585.html",
-      "publishedAt": "2026-05-01T11:00:05.000Z",
-      "summary": "都是Prefill的锅"
+      "title": "DeepSeek V4最大的遗憾",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
+      "publishedAt": "2026-05-03T03:43:37.000Z",
+      "summary": "Engram去哪了？"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 2
   }
 }
