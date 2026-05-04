@@ -1,26 +1,35 @@
 {
-  "generatedAt": "2026-05-03T08:05:15.407Z",
+  "generatedAt": "2026-05-04T08:34:17.871Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "url": "https://www.qbitai.com/2026/05/412870.html",
-      "publishedAt": "2026-05-03T03:56:44.000Z",
-      "summary": "与全球社区共同推动具身智能创新"
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "url": "https://www.qbitai.com/2026/05/412914.html",
+      "publishedAt": "2026-05-04T06:09:16.000Z",
+      "summary": "专门针对DeepSeek优化"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek V4最大的遗憾",
-      "url": "https://www.qbitai.com/2026/05/412737.html",
-      "publishedAt": "2026-05-03T03:43:37.000Z",
-      "summary": "Engram去哪了？"
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "url": "https://www.qbitai.com/2026/05/412080.html",
+      "publishedAt": "2026-05-03T09:43:20.000Z",
+      "summary": "瓜多到吃不完"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "publishedAt": "2026-05-03T09:42:55.000Z",
+      "summary": "完全无需互联网数据"
     }
   ],
   "stats": {
-    "paperItems": 2
+    "paperItems": 3
   }
 }
