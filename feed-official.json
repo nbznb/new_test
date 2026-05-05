@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T08:34:17.870Z",
+  "generatedAt": "2026-05-05T08:14:54.711Z",
   "official": [
     {
       "source": "official",
@@ -330,9 +330,18 @@
       "url": "https://marx.ustc.edu.cn/2026/0319/c30301a723546/page.htm",
       "publishedAt": "2026-03-19",
       "summary": ""
+    },
+    {
+      "source": "official",
+      "sourceName": "USTC News",
+      "sourceSubtype": "general",
+      "title": "中国科大实现高速率实用化量子密钥分发",
+      "url": "https://news.ustc.edu.cn/info/1055/94831.htm",
+      "publishedAt": null,
+      "summary": "我校郭光灿院士团队在实用化量子密钥分发研究方面取得重要进展。该团队韩正甫、陈巍、银振强、王双等与哈尔滨工业大学李琼团队合作，突破了量子态制备和单光子探测技术在高速、高信噪比和集成度的相互制约难题，首次利用半导体单光子探测器，实现了超越超导探测系统的安全密钥率纪录，验证了实现高性能实用化量子密钥分发设备的重要技术路径。研究成果以“High-rate quantum key distribution with compact state preparation and detection”为题，4月30日在线发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences of the United States of America）上。 图1 高速率实用化量子密钥分发示意图 量子密钥分发通过将密钥编码在量子态中实现安全共享，是一种具备信息论安全的保密通信手段。实现高密钥率并兼顾实际部署能力，是其走向应用的关键。近年来，在高性能超导探测系统的支持下，量子密钥分发的安全密钥率显著提升。随着应用需求的增加，系统复杂度和部署条件也成为需要考虑的重要因素。《自然》杂志近期指出：“面向真实世界应用的实用化量子密钥分发通常依赖昂贵且高度复杂的定制化实验室设备，这对大多数现代协议而言尤其具有挑战性”（Developments towards real-world, practical quantum key distribution typically require expensive, highly sophisticated, bespoke laboratory equipment, which is particularly challenging for most modern protocols, Nature 640, 911–917 (2025)）。因此，在保持高密钥率的同时减少对极低温超导系统的依赖并降低系统复杂度，成为推动量子密钥分发进一步发展的关键问题。 韩正甫课题组多年来围绕这一问题展开深入研究，分别提出了多路径马赫-曾德尔量子态制备方法（npj Quant. Inf. 7, 75 (2021)）、单光子探测器建模优化方法（Phys. Rev. Appl. 13, 054027 (2020)、Phys. Rev. A 106, 062607(2022)）并研制了2.5GHz高速半导体探测器（Adv. Devices Instrum. 4, 0020 (2023)）。这些工作为高速率实用化量子密钥分发研究奠定良好的基础。 图2 高速率实用化量子密钥分发系统框图 在本研究中，研究团队构建了一种兼具高性能与可部署性的量子密钥分发系统。在量子态制备方面，团队提出了基于偏振旋转双平行马赫-曾德尔结构的集成化量子态制备方案，实现了诱骗态和编码维度的一体化高速调制。在单光子探测方面，发展了雪崩光电二极管单光子探测技术，提出微弱雪崩信号提取方法，在保持高效率和低死时间的同时有效抑制噪声。在此基础上，系统在无需低温制冷等复杂条件下实现稳定运行，并在10公里和100公里光纤链路上分别实现了60.33 Mbps和3.08 Mbps的安全密钥率纪录，达到了国际领先水平，为高带宽需求下的量子通信规模化部署奠定基础。 我校特任副研究员范元冠杰、博士生谢蔚鑫为论文共同第一作者，王双教授为该论文通讯作者。研究工作得到了来自科技部、国家自然科学基金委等多个项目的支持。 论文链接：https://www.pnas.org/doi/10.1073/pnas.2521590123 （量子网络安徽省重点实验室、物理学院、中国科学院量子信息和量子科技创新研究院、科研部）"
     }
   ],
   "stats": {
-    "officialItems": 30
+    "officialItems": 31
   }
 }
