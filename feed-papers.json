@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-05-05T08:14:54.713Z",
-  "papers": [],
+  "generatedAt": "2026-05-07T08:38:24.484Z",
+  "papers": [
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
+      "url": "https://www.qbitai.com/2026/05/413612.html",
+      "publishedAt": "2026-05-07T07:14:28.000Z",
+      "summary": "低提示词，挑战主流模型的交互逻辑"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "一年磨一剑，今年最炸机器人Demo来了！",
+      "url": "https://www.qbitai.com/2026/05/413830.html",
+      "publishedAt": "2026-05-07T06:43:41.000Z",
+      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+      "url": "https://www.qbitai.com/2026/05/413782.html",
+      "publishedAt": "2026-05-07T06:35:28.000Z",
+      "summary": "推动医疗保障体系迈入数智化新阶段"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
+      "url": "https://www.qbitai.com/2026/05/413613.html",
+      "publishedAt": "2026-05-07T06:29:17.000Z",
+      "summary": "IPO前夕，高管集体出走"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
+      "url": "https://www.qbitai.com/2026/05/413604.html",
+      "publishedAt": "2026-05-07T04:36:41.000Z",
+      "summary": "随着 AI 推理成为其核心工作负载，它们的主要产出已转变为以 Token 形式制造的智能"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
+      "url": "https://www.qbitai.com/2026/05/413591.html",
+      "publishedAt": "2026-05-07T02:46:50.000Z",
+      "summary": "中国大模型的共同依赖"
+    }
+  ],
   "stats": {
-    "paperItems": 0
+    "paperItems": 6
   }
 }
