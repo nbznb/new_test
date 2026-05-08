@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-07T08:38:24.484Z",
+  "generatedAt": "2026-05-08T07:46:07.329Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-      "url": "https://www.qbitai.com/2026/05/413612.html",
-      "publishedAt": "2026-05-07T07:14:28.000Z",
-      "summary": "低提示词，挑战主流模型的交互逻辑"
+      "title": "Anthropic出手！AI的内心独白，曝光了",
+      "url": "https://www.qbitai.com/2026/05/414213.html",
+      "publishedAt": "2026-05-08T06:34:22.000Z",
+      "summary": "原来Claude早就识破了人类的套路（doge）"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "一年磨一剑，今年最炸机器人Demo来了！",
-      "url": "https://www.qbitai.com/2026/05/413830.html",
-      "publishedAt": "2026-05-07T06:43:41.000Z",
-      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴"
+      "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+      "url": "https://www.qbitai.com/2026/05/414194.html",
+      "publishedAt": "2026-05-08T04:35:32.000Z",
+      "summary": "OpenAI上新三款实时语音模型"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-      "url": "https://www.qbitai.com/2026/05/413782.html",
-      "publishedAt": "2026-05-07T06:35:28.000Z",
-      "summary": "推动医疗保障体系迈入数智化新阶段"
+      "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
+      "url": "https://www.qbitai.com/2026/05/414156.html",
+      "publishedAt": "2026-05-08T04:25:39.000Z",
+      "summary": "服务FSD和Optimus"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-      "url": "https://www.qbitai.com/2026/05/413613.html",
-      "publishedAt": "2026-05-07T06:29:17.000Z",
-      "summary": "IPO前夕，高管集体出走"
+      "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
+      "url": "https://www.qbitai.com/2026/05/414141.html",
+      "publishedAt": "2026-05-08T04:15:24.000Z",
+      "summary": "这跟中国的开源精神，显然是一脉相承的"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
-      "url": "https://www.qbitai.com/2026/05/413604.html",
-      "publishedAt": "2026-05-07T04:36:41.000Z",
-      "summary": "随着 AI 推理成为其核心工作负载，它们的主要产出已转变为以 Token 形式制造的智能"
+      "title": "第一批「AI原生」本科生，要毕业了",
+      "url": "https://www.qbitai.com/2026/05/414125.html",
+      "publishedAt": "2026-05-08T04:06:46.000Z",
+      "summary": "全部都是AI加持的超级个体"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
-      "url": "https://www.qbitai.com/2026/05/413591.html",
-      "publishedAt": "2026-05-07T02:46:50.000Z",
-      "summary": "中国大模型的共同依赖"
+      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+      "url": "https://www.qbitai.com/2026/05/413912.html",
+      "publishedAt": "2026-05-07T15:54:00.000Z",
+      "summary": "背靠国内最大ComfyUI生态"
     }
   ],
   "stats": {
