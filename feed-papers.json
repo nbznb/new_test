@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-09T08:00:44.790Z",
+  "generatedAt": "2026-05-10T08:11:45.328Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-      "url": "https://www.qbitai.com/2026/05/414547.html",
-      "publishedAt": "2026-05-09T06:24:18.000Z",
-      "summary": "Jim Fan全新暴论出炉"
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "publishedAt": "2026-05-10T04:01:40.000Z",
+      "summary": "拉姆齐数R(3,17) 下界从92提升至93"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
-      "url": "https://www.qbitai.com/2026/05/414501.html",
-      "publishedAt": "2026-05-09T04:50:55.000Z",
-      "summary": "眼镜里的信息第一次「立」起来了"
+      "title": "太初元碁携龙虾一体机亮相北京科博会",
+      "url": "https://www.qbitai.com/2026/05/415027.html",
+      "publishedAt": "2026-05-09T12:21:08.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
-      "url": "https://www.qbitai.com/2026/05/414496.html",
-      "publishedAt": "2026-05-09T03:11:20.000Z",
-      "summary": "搜索、知识、Agent 能力全面提升"
+      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+      "url": "https://www.qbitai.com/2026/05/415023.html",
+      "publishedAt": "2026-05-09T10:29:31.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
-      "url": "https://www.qbitai.com/2026/05/414445.html",
-      "publishedAt": "2026-05-09T03:01:52.000Z",
-      "summary": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。"
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "url": "https://www.qbitai.com/2026/05/415019.html",
+      "publishedAt": "2026-05-09T09:53:25.000Z",
+      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
-      "url": "https://www.qbitai.com/2026/05/414432.html",
-      "publishedAt": "2026-05-09T02:08:59.000Z",
-      "summary": "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资"
+      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+      "url": "https://www.qbitai.com/2026/05/414826.html",
+      "publishedAt": "2026-05-09T09:37:02.000Z",
+      "summary": "以0.829的总成绩荣登榜首"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
-      "url": "https://www.qbitai.com/2026/05/414428.html",
-      "publishedAt": "2026-05-08T11:09:17.000Z",
-      "summary": "位列第二"
+      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+      "url": "https://www.qbitai.com/2026/05/415010.html",
+      "publishedAt": "2026-05-09T09:22:38.000Z",
+      "summary": "打造“赛博乙方天团”"
     }
   ],
   "stats": {
