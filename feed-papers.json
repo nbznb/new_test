@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-12T08:44:45.014Z",
+  "generatedAt": "2026-05-13T08:48:51.923Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI第一金主黄仁勋：日均花掉20亿",
-      "url": "https://www.qbitai.com/2026/05/416540.html",
-      "publishedAt": "2026-05-12T08:03:52.000Z",
-      "summary": "“AI御三家”都投了"
+      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+      "url": "https://www.qbitai.com/2026/05/416870.html",
+      "publishedAt": "2026-05-13T08:29:20.000Z",
+      "summary": "谷歌把Gemini塞进了Android"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "龙虾退烧后，荣耀给它造了一个宇宙",
-      "url": "https://www.qbitai.com/2026/05/416081.html",
-      "publishedAt": "2026-05-12T07:17:58.000Z",
-      "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。"
+      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+      "url": "https://www.qbitai.com/2026/05/416864.html",
+      "publishedAt": "2026-05-13T05:53:02.000Z",
+      "summary": "无需为不同平台分别写UI代码"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Markdown要凉…卡帕西也站HTML了",
-      "url": "https://www.qbitai.com/2026/05/416339.html",
-      "publishedAt": "2026-05-12T07:08:08.000Z",
-      "summary": "去质疑一切吧"
+      "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+      "url": "https://www.qbitai.com/2026/05/416831.html",
+      "publishedAt": "2026-05-13T05:40:53.000Z",
+      "summary": "Anthropic新研究实锤了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-      "url": "https://www.qbitai.com/2026/05/416056.html",
-      "publishedAt": "2026-05-12T06:06:38.000Z",
-      "summary": "快手，可能要亲手拆出第二家“快手”了。"
+      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+      "url": "https://www.qbitai.com/2026/05/416762.html",
+      "publishedAt": "2026-05-13T04:43:31.000Z",
+      "summary": "李彦宏提出“AI时代进化论”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-      "url": "https://www.qbitai.com/2026/05/416034.html",
-      "publishedAt": "2026-05-12T04:02:50.000Z",
-      "summary": "让AI agent看到屏幕，也能操作鼠标键盘"
+      "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+      "url": "https://www.qbitai.com/2026/05/416754.html",
+      "publishedAt": "2026-05-13T04:08:58.000Z",
+      "summary": "正式进入“迭代优化”时代"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
-      "url": "https://www.qbitai.com/2026/05/415263.html",
-      "publishedAt": "2026-05-11T10:18:49.000Z",
-      "summary": "5月20日，马上AI起来！"
+      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+      "url": "https://www.qbitai.com/2026/05/416739.html",
+      "publishedAt": "2026-05-13T03:38:46.000Z",
+      "summary": "奥特曼曝这老些瓜"
     }
   ],
   "stats": {
