@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-13T08:48:51.923Z",
+  "generatedAt": "2026-05-14T08:41:26.077Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
-      "url": "https://www.qbitai.com/2026/05/416870.html",
-      "publishedAt": "2026-05-13T08:29:20.000Z",
-      "summary": "谷歌把Gemini塞进了Android"
+      "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+      "url": "https://www.qbitai.com/2026/05/417468.html",
+      "publishedAt": "2026-05-14T07:14:05.000Z",
+      "summary": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
-      "url": "https://www.qbitai.com/2026/05/416864.html",
-      "publishedAt": "2026-05-13T05:53:02.000Z",
-      "summary": "无需为不同平台分别写UI代码"
+      "title": "亚历山大王回应一切：LeCun、Manus，“我的父母都是中国人”",
+      "url": "https://www.qbitai.com/2026/05/417488.html",
+      "publishedAt": "2026-05-14T06:21:30.000Z",
+      "summary": "“研究员来Meta不是为了钱”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
-      "url": "https://www.qbitai.com/2026/05/416831.html",
-      "publishedAt": "2026-05-13T05:40:53.000Z",
-      "summary": "Anthropic新研究实锤了"
+      "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
+      "url": "https://www.qbitai.com/2026/05/417469.html",
+      "publishedAt": "2026-05-14T02:12:22.000Z",
+      "summary": "云端基模蒸馏上车，用语言对齐世界模型"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-      "url": "https://www.qbitai.com/2026/05/416762.html",
-      "publishedAt": "2026-05-13T04:43:31.000Z",
-      "summary": "李彦宏提出“AI时代进化论”"
+      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+      "url": "https://www.qbitai.com/2026/05/417447.html",
+      "publishedAt": "2026-05-13T15:54:59.000Z",
+      "summary": "5月20日，马上AI起来！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
-      "url": "https://www.qbitai.com/2026/05/416754.html",
-      "publishedAt": "2026-05-13T04:08:58.000Z",
-      "summary": "正式进入“迭代优化”时代"
+      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+      "url": "https://www.qbitai.com/2026/05/417366.html",
+      "publishedAt": "2026-05-13T14:04:42.000Z",
+      "summary": "甚至可以直接在手机上做APP"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
-      "url": "https://www.qbitai.com/2026/05/416739.html",
-      "publishedAt": "2026-05-13T03:38:46.000Z",
-      "summary": "奥特曼曝这老些瓜"
+      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+      "url": "https://www.qbitai.com/2026/05/416978.html",
+      "publishedAt": "2026-05-13T14:04:35.000Z",
+      "summary": "相同参数量超越扩散自回归"
     }
   ],
   "stats": {
