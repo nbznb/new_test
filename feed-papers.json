@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-05-17T08:25:18.174Z",
+  "generatedAt": "2026-05-18T10:10:19.530Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
-      "url": "https://www.qbitai.com/2026/05/418822.html",
-      "publishedAt": "2026-05-17T04:48:24.000Z",
-      "summary": "“但复杂需求还得Claude”"
+      "title": "华为“养”出半个具身智能创业圈",
+      "url": "https://www.qbitai.com/2026/05/419414.html",
+      "publishedAt": "2026-05-18T08:54:30.000Z",
+      "summary": "正在经历一次罕见的人才外溢。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
-      "url": "https://www.qbitai.com/2026/05/418814.html",
-      "publishedAt": "2026-05-17T03:42:11.000Z",
-      "summary": "先把SFT挖的坑填了！"
+      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+      "url": "https://www.qbitai.com/2026/05/419396.html",
+      "publishedAt": "2026-05-18T06:57:10.000Z",
+      "summary": "五项维度全部排名第一"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "url": "https://www.qbitai.com/2026/05/418737.html",
-      "publishedAt": "2026-05-17T03:37:07.000Z",
-      "summary": "费用参考也很透明"
+      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+      "url": "https://www.qbitai.com/2026/05/419386.html",
+      "publishedAt": "2026-05-18T06:52:11.000Z",
+      "summary": "超越GPT-4o"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-      "url": "https://www.qbitai.com/2026/05/418620.html",
-      "publishedAt": "2026-05-16T13:44:16.000Z",
-      "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。"
+      "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+      "url": "https://www.qbitai.com/2026/05/419373.html",
+      "publishedAt": "2026-05-18T06:44:04.000Z",
+      "summary": "隐私和性能我全都要"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
+      "url": "https://www.qbitai.com/2026/05/419278.html",
+      "publishedAt": "2026-05-18T06:03:53.000Z",
+      "summary": "老黄严选北京游"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+      "url": "https://www.qbitai.com/2026/05/419272.html",
+      "publishedAt": "2026-05-18T05:59:37.000Z",
+      "summary": "Lecun这次是真跟Hinton爆了……"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
