@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-18T10:10:19.530Z",
+  "generatedAt": "2026-05-19T09:51:05.507Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "华为“养”出半个具身智能创业圈",
-      "url": "https://www.qbitai.com/2026/05/419414.html",
-      "publishedAt": "2026-05-18T08:54:30.000Z",
-      "summary": "正在经历一次罕见的人才外溢。"
+      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+      "url": "https://www.qbitai.com/2026/05/420083.html",
+      "publishedAt": "2026-05-19T07:05:05.000Z",
+      "summary": "所谓的真实……真的重要吗？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
-      "url": "https://www.qbitai.com/2026/05/419396.html",
-      "publishedAt": "2026-05-18T06:57:10.000Z",
-      "summary": "五项维度全部排名第一"
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "publishedAt": "2026-05-19T07:03:20.000Z",
+      "summary": "发布MT Lambda"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
-      "url": "https://www.qbitai.com/2026/05/419386.html",
-      "publishedAt": "2026-05-18T06:52:11.000Z",
-      "summary": "超越GPT-4o"
+      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+      "url": "https://www.qbitai.com/2026/05/419990.html",
+      "publishedAt": "2026-05-19T06:07:48.000Z",
+      "summary": "1/10成本、Opus 4.7级表现"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
-      "url": "https://www.qbitai.com/2026/05/419373.html",
-      "publishedAt": "2026-05-18T06:44:04.000Z",
-      "summary": "隐私和性能我全都要"
+      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+      "url": "https://www.qbitai.com/2026/05/419913.html",
+      "publishedAt": "2026-05-19T05:11:31.000Z",
+      "summary": "赛车有张雪，智驾有文远"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
-      "url": "https://www.qbitai.com/2026/05/419278.html",
-      "publishedAt": "2026-05-18T06:03:53.000Z",
-      "summary": "老黄严选北京游"
+      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+      "url": "https://www.qbitai.com/2026/05/419901.html",
+      "publishedAt": "2026-05-19T03:25:02.000Z",
+      "summary": "提前查好路况，定好闹钟，明天线下见！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
-      "url": "https://www.qbitai.com/2026/05/419272.html",
-      "publishedAt": "2026-05-18T05:59:37.000Z",
-      "summary": "Lecun这次是真跟Hinton爆了……"
+      "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+      "url": "https://www.qbitai.com/2026/05/419822.html",
+      "publishedAt": "2026-05-19T02:46:06.000Z",
+      "summary": "文本领域、视觉领域双双国产第一"
     }
   ],
   "stats": {
