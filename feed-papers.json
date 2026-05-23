@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-05-22T09:31:39.924Z",
+  "generatedAt": "2026-05-23T08:23:22.428Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-      "url": "https://www.qbitai.com/2026/05/422624.html",
-      "publishedAt": "2026-05-22T07:16:39.000Z",
-      "summary": "DeepSeek Code is Coming"
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "url": "https://www.qbitai.com/2026/05/423159.html",
+      "publishedAt": "2026-05-23T02:48:28.000Z",
+      "summary": "不造人形机器人，死磕餐饮后厨"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "url": "https://www.qbitai.com/2026/05/422615.html",
-      "publishedAt": "2026-05-22T06:38:04.000Z",
-      "summary": "一个AI统一入口，搞定所有"
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "url": "https://www.qbitai.com/2026/05/422811.html",
+      "publishedAt": "2026-05-22T14:42:54.000Z",
+      "summary": "虾的下半场才刚开始"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "顶流里最快！智谱，你是在「喷」代码吧",
-      "url": "https://www.qbitai.com/2026/05/422511.html",
-      "publishedAt": "2026-05-22T03:05:00.000Z",
-      "summary": "400 tokens/s"
+      "title": "李飞飞再出手，空间智能的ImageNet来了",
+      "url": "https://www.qbitai.com/2026/05/422738.html",
+      "publishedAt": "2026-05-22T08:25:25.000Z",
+      "summary": "一个专门用来评测具身空间智能的新基准"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "url": "https://www.qbitai.com/2026/05/422455.html",
-      "publishedAt": "2026-05-22T02:57:25.000Z",
-      "summary": "提效数十倍，Token消耗直降70%"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "39万！雷军发布小米最贵SUV",
-      "url": "https://www.qbitai.com/2026/05/422088.html",
-      "publishedAt": "2026-05-22T00:50:05.000Z",
-      "summary": "特斯拉前厂长宋钢加盟后首秀"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
-      "url": "https://www.qbitai.com/2026/05/422127.html",
-      "publishedAt": "2026-05-22T00:46:43.000Z",
-      "summary": "调整后净利润同比增长42.1%"
+      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+      "url": "https://www.qbitai.com/2026/05/422068.html",
+      "publishedAt": "2026-05-21T09:48:42.000Z",
+      "summary": "最大提升体现在指令遵循能力上"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
