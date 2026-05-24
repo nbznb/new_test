@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-05-23T08:23:22.428Z",
+  "generatedAt": "2026-05-24T08:32:58.867Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
-      "url": "https://www.qbitai.com/2026/05/423159.html",
-      "publishedAt": "2026-05-23T02:48:28.000Z",
-      "summary": "不造人形机器人，死磕餐饮后厨"
+      "title": "谷歌CEO承认Coding落后了",
+      "url": "https://www.qbitai.com/2026/05/423390.html",
+      "publishedAt": "2026-05-24T06:20:35.000Z",
+      "summary": "搜索25年来最大改版，但谷歌还不敢一脚切到AI"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
-      "url": "https://www.qbitai.com/2026/05/422811.html",
-      "publishedAt": "2026-05-22T14:42:54.000Z",
-      "summary": "虾的下半场才刚开始"
+      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/423382.html",
+      "publishedAt": "2026-05-24T06:14:05.000Z",
+      "summary": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "李飞飞再出手，空间智能的ImageNet来了",
-      "url": "https://www.qbitai.com/2026/05/422738.html",
-      "publishedAt": "2026-05-22T08:25:25.000Z",
-      "summary": "一个专门用来评测具身空间智能的新基准"
+      "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+      "url": "https://www.qbitai.com/2026/05/423213.html",
+      "publishedAt": "2026-05-24T04:53:32.000Z",
+      "summary": "Vibe Coding还是太权威了vibe"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-      "url": "https://www.qbitai.com/2026/05/422068.html",
-      "publishedAt": "2026-05-21T09:48:42.000Z",
-      "summary": "最大提升体现在指令遵循能力上"
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/423202.html",
+      "publishedAt": "2026-05-23T10:09:58.000Z",
+      "summary": "“AI时代经验不再是护城河”"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "url": "https://www.qbitai.com/2026/05/423179.html",
+      "publishedAt": "2026-05-23T09:50:51.000Z",
+      "summary": "13k星开源库作者解锁Codex-maxxing！"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+      "url": "https://www.qbitai.com/2026/05/423162.html",
+      "publishedAt": "2026-05-23T09:46:37.000Z",
+      "summary": "梁文锋承诺坚持开源路线"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
