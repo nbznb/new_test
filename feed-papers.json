@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-24T08:32:58.867Z",
+  "generatedAt": "2026-05-25T10:13:49.805Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "谷歌CEO承认Coding落后了",
-      "url": "https://www.qbitai.com/2026/05/423390.html",
-      "publishedAt": "2026-05-24T06:20:35.000Z",
-      "summary": "搜索25年来最大改版，但谷歌还不敢一脚切到AI"
+      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
+      "url": "https://www.qbitai.com/2026/05/424610.html",
+      "publishedAt": "2026-05-25T08:48:14.000Z",
+      "summary": "特斯拉学会“躲交警”了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/423382.html",
-      "publishedAt": "2026-05-24T06:14:05.000Z",
-      "summary": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力"
+      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+      "url": "https://www.qbitai.com/2026/05/424605.html",
+      "publishedAt": "2026-05-25T07:29:51.000Z",
+      "summary": "6月10-11日盛大启幕"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "什么！你说胡彦斌也在苦修Vibe Coding",
-      "url": "https://www.qbitai.com/2026/05/423213.html",
-      "publishedAt": "2026-05-24T04:53:32.000Z",
-      "summary": "Vibe Coding还是太权威了vibe"
+      "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/424584.html",
+      "publishedAt": "2026-05-25T06:56:42.000Z",
+      "summary": "“要做机器人时代的安卓系统”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/423202.html",
-      "publishedAt": "2026-05-23T10:09:58.000Z",
-      "summary": "“AI时代经验不再是护城河”"
+      "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
+      "url": "https://www.qbitai.com/2026/05/424581.html",
+      "publishedAt": "2026-05-25T06:26:38.000Z",
+      "summary": "获得了国际机器人研究共同体的高度认可"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI大神教你如何榨干Codex",
-      "url": "https://www.qbitai.com/2026/05/423179.html",
-      "publishedAt": "2026-05-23T09:50:51.000Z",
-      "summary": "13k星开源库作者解锁Codex-maxxing！"
+      "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
+      "url": "https://www.qbitai.com/2026/05/424552.html",
+      "publishedAt": "2026-05-25T04:40:14.000Z",
+      "summary": "原本4亿+token、61美元的账单，直降至12美元"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
-      "url": "https://www.qbitai.com/2026/05/423162.html",
-      "publishedAt": "2026-05-23T09:46:37.000Z",
-      "summary": "梁文锋承诺坚持开源路线"
+      "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+      "url": "https://www.qbitai.com/2026/05/424551.html",
+      "publishedAt": "2026-05-25T04:38:24.000Z",
+      "summary": "报名通道已开，手慢无"
     }
   ],
   "stats": {
