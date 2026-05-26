@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-25T10:13:49.805Z",
+  "generatedAt": "2026-05-26T10:01:53.352Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-      "url": "https://www.qbitai.com/2026/05/424610.html",
-      "publishedAt": "2026-05-25T08:48:14.000Z",
-      "summary": "特斯拉学会“躲交警”了"
+      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "url": "https://www.qbitai.com/2026/05/425511.html",
+      "publishedAt": "2026-05-26T08:46:15.000Z",
+      "summary": "训练速度比英伟达Megatron快10%"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-      "url": "https://www.qbitai.com/2026/05/424605.html",
-      "publishedAt": "2026-05-25T07:29:51.000Z",
-      "summary": "6月10-11日盛大启幕"
+      "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+      "url": "https://www.qbitai.com/2026/05/425455.html",
+      "publishedAt": "2026-05-26T08:20:39.000Z",
+      "summary": "解决卡了人类56年的数学难题"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/424584.html",
-      "publishedAt": "2026-05-25T06:56:42.000Z",
-      "summary": "“要做机器人时代的安卓系统”"
+      "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+      "url": "https://www.qbitai.com/2026/05/425304.html",
+      "publishedAt": "2026-05-26T07:42:02.000Z",
+      "summary": "MTS（技术员工） @Anthropic"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
-      "url": "https://www.qbitai.com/2026/05/424581.html",
-      "publishedAt": "2026-05-25T06:26:38.000Z",
-      "summary": "获得了国际机器人研究共同体的高度认可"
+      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+      "url": "https://www.qbitai.com/2026/05/425296.html",
+      "publishedAt": "2026-05-26T06:52:33.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
-      "url": "https://www.qbitai.com/2026/05/424552.html",
-      "publishedAt": "2026-05-25T04:40:14.000Z",
-      "summary": "原本4亿+token、61美元的账单，直降至12美元"
+      "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+      "url": "https://www.qbitai.com/2026/05/425155.html",
+      "publishedAt": "2026-05-26T05:50:01.000Z",
+      "summary": "独特“幸运星”ID设计，打造数字系列史上最精致外观"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
-      "url": "https://www.qbitai.com/2026/05/424551.html",
-      "publishedAt": "2026-05-25T04:38:24.000Z",
-      "summary": "报名通道已开，手慢无"
+      "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+      "url": "https://www.qbitai.com/2026/05/425058.html",
+      "publishedAt": "2026-05-26T05:37:38.000Z",
+      "summary": "90后天才+70后老将打造"
     }
   ],
   "stats": {
