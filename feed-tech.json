@@ -1,26 +1,35 @@
 {
-  "generatedAt": "2026-05-28T10:07:19.169Z",
+  "generatedAt": "2026-05-29T09:58:49.362Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "publishedAt": "2026-05-28T09:51:11.000Z",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…"
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "publishedAt": "2026-05-28T18:01:00.000Z",
+      "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones. The research was published today in Science, and a startup called Rock Zero is working to…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "publishedAt": "2026-05-27T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…"
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "publishedAt": "2026-05-28T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Climate tech companies are going public. What’s next?",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day…"
     }
   ],
   "stats": {
-    "techItems": 2
+    "techItems": 3
   }
 }

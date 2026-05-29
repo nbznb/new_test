@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-28T10:07:19.169Z",
+  "generatedAt": "2026-05-29T09:58:49.362Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-      "url": "https://www.qbitai.com/2026/05/426223.html",
-      "publishedAt": "2026-05-28T08:47:27.000Z",
-      "summary": "实现AI技术从“能力”到“价值”的转化"
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "url": "https://www.qbitai.com/2026/05/426542.html",
+      "publishedAt": "2026-05-29T09:13:24.000Z",
+      "summary": "端侧 AI 是一个系统性工程"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
-      "url": "https://www.qbitai.com/2026/05/426198.html",
-      "publishedAt": "2026-05-28T08:11:40.000Z",
-      "summary": "8篇由同一个系统生成或形式化证明的数学论文"
+      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+      "url": "https://www.qbitai.com/2026/05/426479.html",
+      "publishedAt": "2026-05-29T09:05:30.000Z",
+      "summary": "这是这个时代的印刷机"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-      "url": "https://www.qbitai.com/2026/05/426150.html",
-      "publishedAt": "2026-05-28T08:01:57.000Z",
-      "summary": "医学AI Agent到了关键拐点"
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "url": "https://www.qbitai.com/2026/05/426447.html",
+      "publishedAt": "2026-05-29T08:50:10.000Z",
+      "summary": "下一波AI创作浪潮正在游戏领域发生"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
-      "url": "https://www.qbitai.com/2026/05/426069.html",
-      "publishedAt": "2026-05-28T07:34:57.000Z",
-      "summary": "“87%用户不懂代码，却用AI跑通了一人公司”"
+      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+      "url": "https://www.qbitai.com/2026/05/426400.html",
+      "publishedAt": "2026-05-29T08:32:52.000Z",
+      "summary": "一个人拥有整个创意工作室"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "「斯隆奖」得主戴亮全职加盟复旦",
-      "url": "https://www.qbitai.com/2026/05/425959.html",
-      "publishedAt": "2026-05-28T04:44:46.000Z",
-      "summary": "复旦的顶尖人才版图"
+      "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+      "url": "https://www.qbitai.com/2026/05/426366.html",
+      "publishedAt": "2026-05-29T07:02:05.000Z",
+      "summary": "从按帧学动作，到按「事件」理解世界"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "清华有了新老师：黄仁勋",
-      "url": "https://www.qbitai.com/2026/05/425948.html",
-      "publishedAt": "2026-05-28T04:39:41.000Z",
-      "summary": "黄博好，黄博好。"
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "url": "https://www.qbitai.com/2026/05/426353.html",
+      "publishedAt": "2026-05-29T02:47:09.000Z",
+      "summary": "单位Token成本降低40%"
     }
   ],
   "stats": {
