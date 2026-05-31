@@ -1,62 +1,35 @@
 {
-  "generatedAt": "2026-05-30T08:31:38.853Z",
+  "generatedAt": "2026-05-31T08:50:14.161Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-      "url": "https://www.qbitai.com/2026/05/426706.html",
-      "publishedAt": "2026-05-30T06:43:26.000Z",
-      "summary": "（可能是）大模型圈里最会弹钢琴的人"
+      "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
+      "url": "https://www.qbitai.com/2026/05/426832.html",
+      "publishedAt": "2026-05-31T07:38:43.000Z",
+      "summary": "17800小时的真机数据"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "url": "https://www.qbitai.com/2026/05/426662.html",
-      "publishedAt": "2026-05-30T06:33:58.000Z",
-      "summary": "让世界模型迈向多智能体交互仿真"
+      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+      "url": "https://www.qbitai.com/2026/05/426819.html",
+      "publishedAt": "2026-05-31T03:54:27.000Z",
+      "summary": "CLI更像是Agent的母语"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "url": "https://www.qbitai.com/2026/05/426643.html",
-      "publishedAt": "2026-05-30T03:17:17.000Z",
-      "summary": "让世界模型迈向多智能体交互仿真"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "url": "https://www.qbitai.com/2026/05/426557.html",
-      "publishedAt": "2026-05-29T14:30:20.000Z",
-      "summary": "智驾出事，比亚迪兜底"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-      "url": "https://www.qbitai.com/2026/05/426552.html",
-      "publishedAt": "2026-05-29T11:27:07.000Z",
-      "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-      "url": "https://www.qbitai.com/2026/05/426548.html",
-      "publishedAt": "2026-05-29T11:24:57.000Z",
-      "summary": ""
+      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+      "url": "https://www.qbitai.com/2026/05/426793.html",
+      "publishedAt": "2026-05-31T01:29:42.000Z",
+      "summary": "与其焦虑AI，不如加入AI"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 3
   }
 }
