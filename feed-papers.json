@@ -1,35 +1,62 @@
 {
-  "generatedAt": "2026-05-31T08:50:14.161Z",
+  "generatedAt": "2026-06-01T11:40:28.771Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
-      "url": "https://www.qbitai.com/2026/05/426832.html",
-      "publishedAt": "2026-05-31T07:38:43.000Z",
-      "summary": "17800小时的真机数据"
+      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+      "url": "https://www.qbitai.com/2026/06/427516.html",
+      "publishedAt": "2026-06-01T09:46:32.000Z",
+      "summary": "场景永不消失，多人真正同屏"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-      "url": "https://www.qbitai.com/2026/05/426819.html",
-      "publishedAt": "2026-05-31T03:54:27.000Z",
-      "summary": "CLI更像是Agent的母语"
+      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+      "url": "https://www.qbitai.com/2026/06/427231.html",
+      "publishedAt": "2026-06-01T08:10:20.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-      "url": "https://www.qbitai.com/2026/05/426793.html",
-      "publishedAt": "2026-05-31T01:29:42.000Z",
-      "summary": "与其焦虑AI，不如加入AI"
+      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "url": "https://www.qbitai.com/2026/06/427332.html",
+      "publishedAt": "2026-06-01T07:57:16.000Z",
+      "summary": "文本图像视频都能用"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+      "url": "https://www.qbitai.com/2026/06/427238.html",
+      "publishedAt": "2026-06-01T06:11:12.000Z",
+      "summary": "年薪超200万"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "url": "https://www.qbitai.com/2026/06/427141.html",
+      "publishedAt": "2026-06-01T05:32:24.000Z",
+      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
+      "url": "https://www.qbitai.com/2026/06/427142.html",
+      "publishedAt": "2026-06-01T05:25:27.000Z",
+      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”"
     }
   ],
   "stats": {
-    "paperItems": 3
+    "paperItems": 6
   }
 }
