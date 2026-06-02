@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-01T11:40:28.771Z",
+  "generatedAt": "2026-06-02T10:28:51.369Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-      "url": "https://www.qbitai.com/2026/06/427516.html",
-      "publishedAt": "2026-06-01T09:46:32.000Z",
-      "summary": "场景永不消失，多人真正同屏"
+      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+      "url": "https://www.qbitai.com/2026/06/427810.html",
+      "publishedAt": "2026-06-02T09:28:00.000Z",
+      "summary": "AI视频编辑先理解再动手"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
-      "url": "https://www.qbitai.com/2026/06/427231.html",
-      "publishedAt": "2026-06-01T08:10:20.000Z",
-      "summary": ""
+      "title": "“豆包汽车”，目标市场10万-20万",
+      "url": "https://www.qbitai.com/2026/06/427760.html",
+      "publishedAt": "2026-06-02T08:12:10.000Z",
+      "summary": "国资入主，赛力斯让权"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
-      "url": "https://www.qbitai.com/2026/06/427332.html",
-      "publishedAt": "2026-06-01T07:57:16.000Z",
-      "summary": "文本图像视频都能用"
+      "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+      "url": "https://www.qbitai.com/2026/06/427754.html",
+      "publishedAt": "2026-06-02T07:47:30.000Z",
+      "summary": "已上线 PaddleOCR 官网，支持网页端和API调用"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
-      "url": "https://www.qbitai.com/2026/06/427238.html",
-      "publishedAt": "2026-06-01T06:11:12.000Z",
-      "summary": "年薪超200万"
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "url": "https://www.qbitai.com/2026/06/427729.html",
+      "publishedAt": "2026-06-02T03:57:21.000Z",
+      "summary": "全新的机器人强化学习训练架构"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "url": "https://www.qbitai.com/2026/06/427141.html",
-      "publishedAt": "2026-06-01T05:32:24.000Z",
-      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来"
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "url": "https://www.qbitai.com/2026/06/427730.html",
+      "publishedAt": "2026-06-02T03:15:52.000Z",
+      "summary": "Qwen3.7-Plus已上线阿里云百炼"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
-      "url": "https://www.qbitai.com/2026/06/427142.html",
-      "publishedAt": "2026-06-01T05:25:27.000Z",
-      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”"
+      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+      "url": "https://www.qbitai.com/2026/06/427472.html",
+      "publishedAt": "2026-06-02T01:33:13.000Z",
+      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？"
     }
   ],
   "stats": {
