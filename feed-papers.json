@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-02T10:28:51.369Z",
+  "generatedAt": "2026-06-03T11:04:47.241Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-      "url": "https://www.qbitai.com/2026/06/427810.html",
-      "publishedAt": "2026-06-02T09:28:00.000Z",
-      "summary": "AI视频编辑先理解再动手"
+      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+      "url": "https://www.qbitai.com/2026/06/428435.html",
+      "publishedAt": "2026-06-03T09:54:18.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "“豆包汽车”，目标市场10万-20万",
-      "url": "https://www.qbitai.com/2026/06/427760.html",
-      "publishedAt": "2026-06-02T08:12:10.000Z",
-      "summary": "国资入主，赛力斯让权"
+      "title": "刚刚，Anthropic提交了招股书！",
+      "url": "https://www.qbitai.com/2026/06/428407.html",
+      "publishedAt": "2026-06-03T03:55:19.000Z",
+      "summary": "最快Q4上市"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
-      "url": "https://www.qbitai.com/2026/06/427754.html",
-      "publishedAt": "2026-06-02T07:47:30.000Z",
-      "summary": "已上线 PaddleOCR 官网，支持网页端和API调用"
+      "title": "刚刚，Meta Skill来了",
+      "url": "https://www.qbitai.com/2026/06/428335.html",
+      "publishedAt": "2026-06-03T01:29:35.000Z",
+      "summary": "GitHub最新火爆仓库：OpenSquilla。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
-      "url": "https://www.qbitai.com/2026/06/427729.html",
-      "publishedAt": "2026-06-02T03:57:21.000Z",
-      "summary": "全新的机器人强化学习训练架构"
+      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
+      "url": "https://www.qbitai.com/2026/06/428092.html",
+      "publishedAt": "2026-06-02T15:50:16.000Z",
+      "summary": "还能带你打卡老黄同款南锣路线"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
-      "url": "https://www.qbitai.com/2026/06/427730.html",
-      "publishedAt": "2026-06-02T03:15:52.000Z",
-      "summary": "Qwen3.7-Plus已上线阿里云百炼"
+      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+      "url": "https://www.qbitai.com/2026/06/428003.html",
+      "publishedAt": "2026-06-02T14:54:29.000Z",
+      "summary": "还挖走了苏炜杰"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-      "url": "https://www.qbitai.com/2026/06/427472.html",
-      "publishedAt": "2026-06-02T01:33:13.000Z",
-      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？"
+      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+      "url": "https://www.qbitai.com/2026/06/427922.html",
+      "publishedAt": "2026-06-02T14:52:01.000Z",
+      "summary": "平台入驻全球达人已超10万"
     }
   ],
   "stats": {
