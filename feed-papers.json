@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-03T11:04:47.241Z",
+  "generatedAt": "2026-06-04T10:00:02.558Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
-      "url": "https://www.qbitai.com/2026/06/428435.html",
-      "publishedAt": "2026-06-03T09:54:18.000Z",
+      "title": "连GitLab都开始裁程序员了",
+      "url": "https://www.qbitai.com/2026/06/429117.html",
+      "publishedAt": "2026-06-04T08:54:13.000Z",
+      "summary": "硅谷科技公司Q1裁员同比增长40%"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "A股账户可以买Robotaxi了",
+      "url": "https://www.qbitai.com/2026/06/428954.html",
+      "publishedAt": "2026-06-04T07:41:33.000Z",
+      "summary": "Robotaxi双雄同日官宣"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
+      "url": "https://www.qbitai.com/2026/06/428942.html",
+      "publishedAt": "2026-06-04T07:25:26.000Z",
+      "summary": "聚焦高校科研算力"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "比亚迪与中国石化深化战略合作 共建智慧能源生态",
+      "url": "https://www.qbitai.com/2026/06/428933.html",
+      "publishedAt": "2026-06-04T06:58:07.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，Anthropic提交了招股书！",
-      "url": "https://www.qbitai.com/2026/06/428407.html",
-      "publishedAt": "2026-06-03T03:55:19.000Z",
-      "summary": "最快Q4上市"
+      "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+      "url": "https://www.qbitai.com/2026/06/428790.html",
+      "publishedAt": "2026-06-04T03:43:37.000Z",
+      "summary": "”隐空间世界模型很难，但我们一定要做“"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，Meta Skill来了",
-      "url": "https://www.qbitai.com/2026/06/428335.html",
-      "publishedAt": "2026-06-03T01:29:35.000Z",
-      "summary": "GitHub最新火爆仓库：OpenSquilla。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
-      "url": "https://www.qbitai.com/2026/06/428092.html",
-      "publishedAt": "2026-06-02T15:50:16.000Z",
-      "summary": "还能带你打卡老黄同款南锣路线"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
-      "url": "https://www.qbitai.com/2026/06/428003.html",
-      "publishedAt": "2026-06-02T14:54:29.000Z",
-      "summary": "还挖走了苏炜杰"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
-      "url": "https://www.qbitai.com/2026/06/427922.html",
-      "publishedAt": "2026-06-02T14:52:01.000Z",
-      "summary": "平台入驻全球达人已超10万"
+      "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+      "url": "https://www.qbitai.com/2026/06/428791.html",
+      "publishedAt": "2026-06-04T03:10:23.000Z",
+      "summary": "不多不少，只要150"
     }
   ],
   "stats": {
