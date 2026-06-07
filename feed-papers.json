@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-06-06T08:37:10.235Z",
+  "generatedAt": "2026-06-07T09:17:03.614Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-      "url": "https://www.qbitai.com/2026/06/431287.html",
-      "publishedAt": "2026-06-06T07:15:13.000Z",
-      "summary": "观众投币定前十！"
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "url": "https://www.qbitai.com/2026/06/431487.html",
+      "publishedAt": "2026-06-07T03:10:13.000Z",
+      "summary": "花旗美银都是客户"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Hinton吹哨了：AI已经有意识！",
-      "url": "https://www.qbitai.com/2026/06/431349.html",
-      "publishedAt": "2026-06-06T07:08:15.000Z",
-      "summary": "人类得接受自己不再是唯一智能生命体"
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "publishedAt": "2026-06-07T01:13:21.000Z",
+      "summary": "高一致性、低延迟、实时超分全梭哈"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
-      "url": "https://www.qbitai.com/2026/06/431186.html",
-      "publishedAt": "2026-06-06T07:00:06.000Z",
-      "summary": "广东上大分！"
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "url": "https://www.qbitai.com/2026/06/431371.html",
+      "publishedAt": "2026-06-06T10:14:54.000Z",
+      "summary": "造火箭的正在批量造巨富"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
-      "url": "https://www.qbitai.com/2026/06/431056.html",
-      "publishedAt": "2026-06-06T03:35:47.000Z",
-      "summary": "形成「鞋履+人工智能数据」双主业"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "有人靠CPU把AI算力密度卷到了新高度",
-      "url": "https://www.qbitai.com/2026/06/431045.html",
-      "publishedAt": "2026-06-05T13:16:53.000Z",
-      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-      "url": "https://www.qbitai.com/2026/06/431033.html",
-      "publishedAt": "2026-06-05T10:53:01.000Z",
-      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。"
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "url": "https://www.qbitai.com/2026/06/431027.html",
+      "publishedAt": "2026-06-05T10:46:59.000Z",
+      "summary": ""
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
