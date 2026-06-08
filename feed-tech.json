@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-07T09:17:03.614Z",
-  "tech": [],
+  "generatedAt": "2026-06-08T11:01:13.048Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with a…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 1
   }
 }
