@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-08T11:01:13.049Z",
+  "generatedAt": "2026-06-09T09:51:13.966Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
-      "url": "https://www.qbitai.com/2026/06/432489.html",
-      "publishedAt": "2026-06-08T09:00:20.000Z",
-      "summary": "ABot-Earth0.5正式开放内测"
+      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+      "url": "https://www.qbitai.com/2026/06/433517.html",
+      "publishedAt": "2026-06-09T09:12:19.000Z",
+      "summary": "祝大家都能找到，属于自己的驱动力"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
-      "url": "https://www.qbitai.com/2026/06/432425.html",
-      "publishedAt": "2026-06-08T08:28:48.000Z",
-      "summary": "豆包硬刚ChatGPT"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
-      "url": "https://www.qbitai.com/2026/06/432581.html",
-      "publishedAt": "2026-06-08T08:09:25.000Z",
+      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "url": "https://www.qbitai.com/2026/06/433508.html",
+      "publishedAt": "2026-06-09T07:11:48.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
-      "url": "https://www.qbitai.com/2026/06/432417.html",
-      "publishedAt": "2026-06-08T06:30:23.000Z",
-      "summary": "轻视它就会错过整个时代"
+      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "url": "https://www.qbitai.com/2026/06/433478.html",
+      "publishedAt": "2026-06-09T04:17:04.000Z",
+      "summary": "效果比肩GPT-5.4"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
-      "url": "https://www.qbitai.com/2026/06/432084.html",
-      "publishedAt": "2026-06-08T05:02:40.000Z",
-      "summary": "最值得看的不是火箭是AI"
+      "title": "你天天刷的小红书，正在长出一个GitHub",
+      "url": "https://www.qbitai.com/2026/06/433066.html",
+      "publishedAt": "2026-06-09T04:07:56.000Z",
+      "summary": "RED Skill预计7月全量上线"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
-      "url": "https://www.qbitai.com/2026/06/432062.html",
-      "publishedAt": "2026-06-08T04:36:03.000Z",
-      "summary": "黄仁勋要算一万步，这家公司的芯片只需一步"
+      "title": "国产通用大模型第一梯队，来新人了？！",
+      "url": "https://www.qbitai.com/2026/06/432747.html",
+      "publishedAt": "2026-06-09T02:55:08.000Z",
+      "summary": "不卷参数，卷“智能密度×Token价值”"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+      "url": "https://www.qbitai.com/2026/06/432735.html",
+      "publishedAt": "2026-06-09T02:39:19.000Z",
+      "summary": "追赶老马与微软"
     }
   ],
   "stats": {
