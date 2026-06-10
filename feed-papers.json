@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-09T09:51:13.966Z",
+  "generatedAt": "2026-06-10T10:06:40.449Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "url": "https://www.qbitai.com/2026/06/433517.html",
-      "publishedAt": "2026-06-09T09:12:19.000Z",
-      "summary": "祝大家都能找到，属于自己的驱动力"
+      "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+      "url": "https://www.qbitai.com/2026/06/433798.html",
+      "publishedAt": "2026-06-10T07:27:58.000Z",
+      "summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "url": "https://www.qbitai.com/2026/06/433508.html",
-      "publishedAt": "2026-06-09T07:11:48.000Z",
-      "summary": ""
+      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+      "url": "https://www.qbitai.com/2026/06/433516.html",
+      "publishedAt": "2026-06-10T06:51:35.000Z",
+      "summary": "诚邀30家OPC入驻内测"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-      "url": "https://www.qbitai.com/2026/06/433478.html",
-      "publishedAt": "2026-06-09T04:17:04.000Z",
-      "summary": "效果比肩GPT-5.4"
+      "title": "GPT-5.6首批实测来了！精准狙击Mythos",
+      "url": "https://www.qbitai.com/2026/06/433731.html",
+      "publishedAt": "2026-06-10T06:45:09.000Z",
+      "summary": "本月发布！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "你天天刷的小红书，正在长出一个GitHub",
-      "url": "https://www.qbitai.com/2026/06/433066.html",
-      "publishedAt": "2026-06-09T04:07:56.000Z",
-      "summary": "RED Skill预计7月全量上线"
+      "title": "Claude Fable 5首日实测，杀疯了…",
+      "url": "https://www.qbitai.com/2026/06/433682.html",
+      "publishedAt": "2026-06-10T05:54:17.000Z",
+      "summary": "听取哇声一片"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国产通用大模型第一梯队，来新人了？！",
-      "url": "https://www.qbitai.com/2026/06/432747.html",
-      "publishedAt": "2026-06-09T02:55:08.000Z",
-      "summary": "不卷参数，卷“智能密度×Token价值”"
+      "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
+      "url": "https://www.qbitai.com/2026/06/433590.html",
+      "publishedAt": "2026-06-09T22:52:37.000Z",
+      "summary": "一个更强的模型上桌了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek开招土木老哥：自建GW级数据中心",
-      "url": "https://www.qbitai.com/2026/06/432735.html",
-      "publishedAt": "2026-06-09T02:39:19.000Z",
-      "summary": "追赶老马与微软"
+      "title": "内蒙跑通AI逆袭新解法",
+      "url": "https://www.qbitai.com/2026/06/433565.html",
+      "publishedAt": "2026-06-09T13:40:54.000Z",
+      "summary": "全行业的Token焦虑何解？"
     }
   ],
   "stats": {
