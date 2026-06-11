@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-10T10:06:40.449Z",
+  "generatedAt": "2026-06-11T10:41:05.607Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
-      "url": "https://www.qbitai.com/2026/06/433798.html",
-      "publishedAt": "2026-06-10T07:27:58.000Z",
-      "summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能"
+      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+      "url": "https://www.qbitai.com/2026/06/434571.html",
+      "publishedAt": "2026-06-11T08:23:31.000Z",
+      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
-      "url": "https://www.qbitai.com/2026/06/433516.html",
-      "publishedAt": "2026-06-10T06:51:35.000Z",
-      "summary": "诚邀30家OPC入驻内测"
+      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+      "url": "https://www.qbitai.com/2026/06/434558.html",
+      "publishedAt": "2026-06-11T07:25:55.000Z",
+      "summary": "前期做了40万AI考生压测"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-5.6首批实测来了！精准狙击Mythos",
-      "url": "https://www.qbitai.com/2026/06/433731.html",
-      "publishedAt": "2026-06-10T06:45:09.000Z",
-      "summary": "本月发布！"
+      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "url": "https://www.qbitai.com/2026/06/434317.html",
+      "publishedAt": "2026-06-11T04:18:34.000Z",
+      "summary": "Meshy发布全球首个3D AI Agent"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude Fable 5首日实测，杀疯了…",
-      "url": "https://www.qbitai.com/2026/06/433682.html",
-      "publishedAt": "2026-06-10T05:54:17.000Z",
-      "summary": "听取哇声一片"
+      "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+      "url": "https://www.qbitai.com/2026/06/434316.html",
+      "publishedAt": "2026-06-11T04:17:22.000Z",
+      "summary": "用扩散模型生成文字"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
-      "url": "https://www.qbitai.com/2026/06/433590.html",
-      "publishedAt": "2026-06-09T22:52:37.000Z",
-      "summary": "一个更强的模型上桌了"
+      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+      "url": "https://www.qbitai.com/2026/06/434326.html",
+      "publishedAt": "2026-06-11T04:16:20.000Z",
+      "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "内蒙跑通AI逆袭新解法",
-      "url": "https://www.qbitai.com/2026/06/433565.html",
-      "publishedAt": "2026-06-09T13:40:54.000Z",
-      "summary": "全行业的Token焦虑何解？"
+      "title": "AI短剧工具赛道，年度最大单笔融资来了",
+      "url": "https://www.qbitai.com/2026/06/434298.html",
+      "publishedAt": "2026-06-11T04:07:32.000Z",
+      "summary": "年度最大单笔融资来了"
     }
   ],
   "stats": {
