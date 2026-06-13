@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-06-12T10:18:02.521Z",
+  "generatedAt": "2026-06-13T09:20:31.183Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-      "url": "https://www.qbitai.com/2026/06/435192.html",
-      "publishedAt": "2026-06-12T07:31:55.000Z",
-      "summary": "助力LP与GP高效合"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-      "url": "https://www.qbitai.com/2026/06/433717.html",
-      "publishedAt": "2026-06-12T07:29:59.000Z",
-      "summary": "那位被OpenAI开除的股神"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-      "url": "https://www.qbitai.com/2026/06/435105.html",
-      "publishedAt": "2026-06-12T07:27:14.000Z",
-      "summary": "7 月 17-18 日"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "url": "https://www.qbitai.com/2026/06/434774.html",
-      "publishedAt": "2026-06-12T04:13:23.000Z",
-      "summary": "最难档通通零蛋"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-      "url": "https://www.qbitai.com/2026/06/434761.html",
-      "publishedAt": "2026-06-12T04:11:02.000Z",
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "url": "https://www.qbitai.com/2026/06/435394.html",
+      "publishedAt": "2026-06-13T05:19:13.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
-      "url": "https://www.qbitai.com/2026/06/434733.html",
-      "publishedAt": "2026-06-12T00:26:58.000Z",
-      "summary": "光散户就给马斯克冲了700亿刀"
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "url": "https://www.qbitai.com/2026/06/435339.html",
+      "publishedAt": "2026-06-13T04:05:19.000Z",
+      "summary": "马斯克成人类历史首位万亿美金富豪"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "神了，世界杯第一天真按千问剧本踢了",
+      "url": "https://www.qbitai.com/2026/06/435321.html",
+      "publishedAt": "2026-06-12T16:45:23.000Z",
+      "summary": "比分、红牌、绝杀全押中"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "千里收购了一家毫米波雷达公司",
+      "url": "https://www.qbitai.com/2026/06/435196.html",
+      "publishedAt": "2026-06-12T09:13:14.000Z",
+      "summary": "布局全栈闭环"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
