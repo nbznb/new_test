@@ -1,44 +1,26 @@
 {
-  "generatedAt": "2026-06-13T09:20:31.183Z",
+  "generatedAt": "2026-06-14T09:38:54.725Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "url": "https://www.qbitai.com/2026/06/435394.html",
-      "publishedAt": "2026-06-13T05:19:13.000Z",
-      "summary": ""
+      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "url": "https://www.qbitai.com/2026/06/435483.html",
+      "publishedAt": "2026-06-13T12:40:30.000Z",
+      "summary": "模型参数量只有1B"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-      "url": "https://www.qbitai.com/2026/06/435339.html",
-      "publishedAt": "2026-06-13T04:05:19.000Z",
-      "summary": "马斯克成人类历史首位万亿美金富豪"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "神了，世界杯第一天真按千问剧本踢了",
-      "url": "https://www.qbitai.com/2026/06/435321.html",
-      "publishedAt": "2026-06-12T16:45:23.000Z",
-      "summary": "比分、红牌、绝杀全押中"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "千里收购了一家毫米波雷达公司",
-      "url": "https://www.qbitai.com/2026/06/435196.html",
-      "publishedAt": "2026-06-12T09:13:14.000Z",
-      "summary": "布局全栈闭环"
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "url": "https://www.qbitai.com/2026/06/435455.html",
+      "publishedAt": "2026-06-13T08:11:07.000Z",
+      "summary": "一起构建下一代物理世界的智能系统"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 2
   }
 }
