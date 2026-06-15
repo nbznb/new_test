@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-14T09:38:54.725Z",
-  "tech": [],
+  "generatedAt": "2026-06-15T12:21:06.322Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 1
   }
 }

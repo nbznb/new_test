@@ -1,26 +1,62 @@
 {
-  "generatedAt": "2026-06-14T09:38:54.725Z",
+  "generatedAt": "2026-06-15T12:21:06.322Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-      "url": "https://www.qbitai.com/2026/06/435483.html",
-      "publishedAt": "2026-06-13T12:40:30.000Z",
-      "summary": "模型参数量只有1B"
+      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+      "url": "https://www.qbitai.com/2026/06/435841.html",
+      "publishedAt": "2026-06-15T09:37:40.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "url": "https://www.qbitai.com/2026/06/435455.html",
-      "publishedAt": "2026-06-13T08:11:07.000Z",
-      "summary": "一起构建下一代物理世界的智能系统"
+      "title": "宇树机器人要登珠峰了！",
+      "url": "https://www.qbitai.com/2026/06/435817.html",
+      "publishedAt": "2026-06-15T09:17:30.000Z",
+      "summary": "已登顶钦博拉索"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
+      "url": "https://www.qbitai.com/2026/06/435804.html",
+      "publishedAt": "2026-06-15T06:54:14.000Z",
+      "summary": "上半年订单金额已超10亿"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "url": "https://www.qbitai.com/2026/06/435802.html",
+      "publishedAt": "2026-06-15T06:52:30.000Z",
+      "summary": "还能听懂时间戳"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+      "url": "https://www.qbitai.com/2026/06/435574.html",
+      "publishedAt": "2026-06-15T06:08:58.000Z",
+      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+      "url": "https://www.qbitai.com/2026/06/435558.html",
+      "publishedAt": "2026-06-15T05:43:15.000Z",
+      "summary": "原来最强AI不是一个AI"
     }
   ],
   "stats": {
-    "paperItems": 2
+    "paperItems": 6
   }
 }
