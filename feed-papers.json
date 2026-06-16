@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-15T12:21:06.322Z",
+  "generatedAt": "2026-06-16T11:16:26.003Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-      "url": "https://www.qbitai.com/2026/06/435841.html",
-      "publishedAt": "2026-06-15T09:37:40.000Z",
+      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "url": "https://www.qbitai.com/2026/06/435950.html",
+      "publishedAt": "2026-06-16T10:36:35.000Z",
+      "summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+      "url": "https://www.qbitai.com/2026/06/435931.html",
+      "publishedAt": "2026-06-16T09:31:02.000Z",
+      "summary": "100万奖金，0门槛参赛"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "url": "https://www.qbitai.com/2026/06/435882.html",
+      "publishedAt": "2026-06-16T06:40:17.000Z",
+      "summary": "她并不是一位被神话出来的「星舰女王」"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "url": "https://www.qbitai.com/2026/06/435873.html",
+      "publishedAt": "2026-06-16T04:39:39.000Z",
+      "summary": "边走、边看、边思考"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "url": "https://www.qbitai.com/2026/06/435859.html",
+      "publishedAt": "2026-06-16T04:10:43.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "宇树机器人要登珠峰了！",
-      "url": "https://www.qbitai.com/2026/06/435817.html",
-      "publishedAt": "2026-06-15T09:17:30.000Z",
-      "summary": "已登顶钦博拉索"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
-      "url": "https://www.qbitai.com/2026/06/435804.html",
-      "publishedAt": "2026-06-15T06:54:14.000Z",
-      "summary": "上半年订单金额已超10亿"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
-      "url": "https://www.qbitai.com/2026/06/435802.html",
-      "publishedAt": "2026-06-15T06:52:30.000Z",
-      "summary": "还能听懂时间戳"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
-      "url": "https://www.qbitai.com/2026/06/435574.html",
-      "publishedAt": "2026-06-15T06:08:58.000Z",
-      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-      "url": "https://www.qbitai.com/2026/06/435558.html",
-      "publishedAt": "2026-06-15T05:43:15.000Z",
-      "summary": "原来最强AI不是一个AI"
+      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
+      "url": "https://www.qbitai.com/2026/06/435853.html",
+      "publishedAt": "2026-06-16T02:47:51.000Z",
+      "summary": "成为全球领先的通用人工智能科技公司"
     }
   ],
   "stats": {
