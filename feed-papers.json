@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-16T11:16:26.003Z",
+  "generatedAt": "2026-06-17T11:00:56.704Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
-      "url": "https://www.qbitai.com/2026/06/435950.html",
-      "publishedAt": "2026-06-16T10:36:35.000Z",
-      "summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。"
+      "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+      "url": "https://www.qbitai.com/2026/06/436213.html",
+      "publishedAt": "2026-06-17T10:16:03.000Z",
+      "summary": "本文由算苗科技提供，量子位获授权转载，版权归原作者所有"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
-      "url": "https://www.qbitai.com/2026/06/435931.html",
-      "publishedAt": "2026-06-16T09:31:02.000Z",
-      "summary": "100万奖金，0门槛参赛"
+      "title": "为什么最有价值的AI讨论总发生在知乎？",
+      "url": "https://www.qbitai.com/2026/06/436211.html",
+      "publishedAt": "2026-06-17T10:13:07.000Z",
+      "summary": "知乎记录的不只是AI，而是时代变化本身"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
-      "url": "https://www.qbitai.com/2026/06/435882.html",
-      "publishedAt": "2026-06-16T06:40:17.000Z",
-      "summary": "她并不是一位被神话出来的「星舰女王」"
+      "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
+      "url": "https://www.qbitai.com/2026/06/436171.html",
+      "publishedAt": "2026-06-17T08:13:50.000Z",
+      "summary": "在多项关键医疗测评上打败了GPT-5.5"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
-      "url": "https://www.qbitai.com/2026/06/435873.html",
-      "publishedAt": "2026-06-16T04:39:39.000Z",
-      "summary": "边走、边看、边思考"
+      "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
+      "url": "https://www.qbitai.com/2026/06/436160.html",
+      "publishedAt": "2026-06-17T06:56:51.000Z",
+      "summary": "用户可以在与智能体的对话中提出消费需求"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
-      "url": "https://www.qbitai.com/2026/06/435859.html",
-      "publishedAt": "2026-06-16T04:10:43.000Z",
-      "summary": ""
+      "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+      "url": "https://www.qbitai.com/2026/06/436148.html",
+      "publishedAt": "2026-06-17T06:22:39.000Z",
+      "summary": "半年三连发：从开源到端侧再到训练场"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-      "url": "https://www.qbitai.com/2026/06/435853.html",
-      "publishedAt": "2026-06-16T02:47:51.000Z",
-      "summary": "成为全球领先的通用人工智能科技公司"
+      "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
+      "url": "https://www.qbitai.com/2026/06/436138.html",
+      "publishedAt": "2026-06-17T06:17:22.000Z",
+      "summary": "高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元"
     }
   ],
   "stats": {
