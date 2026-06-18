@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-17T11:00:56.704Z",
+  "generatedAt": "2026-06-18T10:24:53.365Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
-      "url": "https://www.qbitai.com/2026/06/436213.html",
-      "publishedAt": "2026-06-17T10:16:03.000Z",
-      "summary": "本文由算苗科技提供，量子位获授权转载，版权归原作者所有"
+      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "url": "https://www.qbitai.com/2026/06/436740.html",
+      "publishedAt": "2026-06-18T09:45:11.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "为什么最有价值的AI讨论总发生在知乎？",
-      "url": "https://www.qbitai.com/2026/06/436211.html",
-      "publishedAt": "2026-06-17T10:13:07.000Z",
-      "summary": "知乎记录的不只是AI，而是时代变化本身"
+      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+      "url": "https://www.qbitai.com/2026/06/436674.html",
+      "publishedAt": "2026-06-18T09:39:35.000Z",
+      "summary": "已接入华为鸿蒙生态"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
-      "url": "https://www.qbitai.com/2026/06/436171.html",
-      "publishedAt": "2026-06-17T08:13:50.000Z",
-      "summary": "在多项关键医疗测评上打败了GPT-5.5"
+      "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+      "url": "https://www.qbitai.com/2026/06/436698.html",
+      "publishedAt": "2026-06-18T09:39:05.000Z",
+      "summary": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
-      "url": "https://www.qbitai.com/2026/06/436160.html",
-      "publishedAt": "2026-06-17T06:56:51.000Z",
-      "summary": "用户可以在与智能体的对话中提出消费需求"
+      "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+      "url": "https://www.qbitai.com/2026/06/436518.html",
+      "publishedAt": "2026-06-18T09:12:09.000Z",
+      "summary": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
-      "url": "https://www.qbitai.com/2026/06/436148.html",
-      "publishedAt": "2026-06-17T06:22:39.000Z",
-      "summary": "半年三连发：从开源到端侧再到训练场"
+      "title": "18年前不让你苦修PS的美图，这次不让你苦修AI了",
+      "url": "https://www.qbitai.com/2026/06/436517.html",
+      "publishedAt": "2026-06-18T09:07:51.000Z",
+      "summary": "用八款产品，讲一个变化"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
-      "url": "https://www.qbitai.com/2026/06/436138.html",
-      "publishedAt": "2026-06-17T06:17:22.000Z",
-      "summary": "高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元"
+      "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+      "url": "https://www.qbitai.com/2026/06/436477.html",
+      "publishedAt": "2026-06-18T05:12:25.000Z",
+      "summary": "给A社都干沉默了…"
     }
   ],
   "stats": {
