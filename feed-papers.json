@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-18T10:24:53.365Z",
+  "generatedAt": "2026-06-19T10:41:22.784Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "url": "https://www.qbitai.com/2026/06/436740.html",
-      "publishedAt": "2026-06-18T09:45:11.000Z",
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "url": "https://www.qbitai.com/2026/06/436864.html",
+      "publishedAt": "2026-06-19T08:42:04.000Z",
+      "summary": "创作者的终极玩具来了"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "GPT发AI原创新成果了",
+      "url": "https://www.qbitai.com/2026/06/436842.html",
+      "publishedAt": "2026-06-19T03:34:23.000Z",
+      "summary": "AI实现药物全自动研发，还远吗？"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+      "url": "https://www.qbitai.com/2026/06/436813.html",
+      "publishedAt": "2026-06-19T03:28:37.000Z",
+      "summary": "人形机器人正式迈入“GPT时代”"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "url": "https://www.qbitai.com/2026/06/436758.html",
+      "publishedAt": "2026-06-18T13:46:04.000Z",
+      "summary": "M4是大脑，百小医是身体"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+      "url": "https://www.qbitai.com/2026/06/436802.html",
+      "publishedAt": "2026-06-18T13:42:09.000Z",
+      "summary": "全系产品入驻万机易租2.0"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+      "url": "https://www.qbitai.com/2026/06/436751.html",
+      "publishedAt": "2026-06-18T10:14:49.000Z",
       "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-      "url": "https://www.qbitai.com/2026/06/436674.html",
-      "publishedAt": "2026-06-18T09:39:35.000Z",
-      "summary": "已接入华为鸿蒙生态"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
-      "url": "https://www.qbitai.com/2026/06/436698.html",
-      "publishedAt": "2026-06-18T09:39:05.000Z",
-      "summary": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
-      "url": "https://www.qbitai.com/2026/06/436518.html",
-      "publishedAt": "2026-06-18T09:12:09.000Z",
-      "summary": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "18年前不让你苦修PS的美图，这次不让你苦修AI了",
-      "url": "https://www.qbitai.com/2026/06/436517.html",
-      "publishedAt": "2026-06-18T09:07:51.000Z",
-      "summary": "用八款产品，讲一个变化"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
-      "url": "https://www.qbitai.com/2026/06/436477.html",
-      "publishedAt": "2026-06-18T05:12:25.000Z",
-      "summary": "给A社都干沉默了…"
     }
   ],
   "stats": {
