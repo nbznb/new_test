@@ -1,62 +1,7 @@
 {
-  "generatedAt": "2026-06-19T10:41:22.784Z",
-  "papers": [
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-      "url": "https://www.qbitai.com/2026/06/436864.html",
-      "publishedAt": "2026-06-19T08:42:04.000Z",
-      "summary": "创作者的终极玩具来了"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "GPT发AI原创新成果了",
-      "url": "https://www.qbitai.com/2026/06/436842.html",
-      "publishedAt": "2026-06-19T03:34:23.000Z",
-      "summary": "AI实现药物全自动研发，还远吗？"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "url": "https://www.qbitai.com/2026/06/436813.html",
-      "publishedAt": "2026-06-19T03:28:37.000Z",
-      "summary": "人形机器人正式迈入“GPT时代”"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "url": "https://www.qbitai.com/2026/06/436758.html",
-      "publishedAt": "2026-06-18T13:46:04.000Z",
-      "summary": "M4是大脑，百小医是身体"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-      "url": "https://www.qbitai.com/2026/06/436802.html",
-      "publishedAt": "2026-06-18T13:42:09.000Z",
-      "summary": "全系产品入驻万机易租2.0"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-      "url": "https://www.qbitai.com/2026/06/436751.html",
-      "publishedAt": "2026-06-18T10:14:49.000Z",
-      "summary": ""
-    }
-  ],
+  "generatedAt": "2026-06-20T09:20:08.192Z",
+  "papers": [],
   "stats": {
-    "paperItems": 6
+    "paperItems": 0
   }
 }
