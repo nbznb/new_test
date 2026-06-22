@@ -1,62 +1,53 @@
 {
-  "generatedAt": "2026-06-21T09:54:14.871Z",
+  "generatedAt": "2026-06-22T12:09:41.266Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-      "url": "https://www.qbitai.com/2026/06/437141.html",
-      "publishedAt": "2026-06-21T04:46:07.000Z",
-      "summary": "一个月只要340块"
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "url": "https://www.qbitai.com/2026/06/437317.html",
+      "publishedAt": "2026-06-22T07:30:07.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "英伟达开始搞机器人自己研究机器人那套了…",
-      "url": "https://www.qbitai.com/2026/06/437041.html",
-      "publishedAt": "2026-06-20T12:06:20.000Z",
-      "summary": "为了让你烧token，英伟达已经卷到机器人身上了"
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "url": "https://www.qbitai.com/2026/06/437308.html",
+      "publishedAt": "2026-06-22T06:22:00.000Z",
+      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "url": "https://www.qbitai.com/2026/06/437023.html",
-      "publishedAt": "2026-06-20T11:56:57.000Z",
-      "summary": "全球最聪明的人之一，成了AI最狂热的布道者"
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "url": "https://www.qbitai.com/2026/06/437249.html",
+      "publishedAt": "2026-06-22T05:09:27.000Z",
+      "summary": "DeepSeek正在全力押注"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
-      "url": "https://www.qbitai.com/2026/06/436996.html",
-      "publishedAt": "2026-06-20T10:42:35.000Z",
-      "summary": "速度快7倍，成本只有Veo 3的1/2000"
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "url": "https://www.qbitai.com/2026/06/437235.html",
+      "publishedAt": "2026-06-22T03:48:38.000Z",
+      "summary": "120分钟长视频一边看一边记"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
-      "url": "https://www.qbitai.com/2026/06/436980.html",
-      "publishedAt": "2026-06-20T09:42:18.000Z",
-      "summary": "Gemini 3.5 Pro呢？"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "url": "https://www.qbitai.com/2026/06/436966.html",
-      "publishedAt": "2026-06-20T09:36:31.000Z",
-      "summary": "抢人最猛的Meta，似乎先从内部裂开了"
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "publishedAt": "2026-06-21T09:18:12.000Z",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 5
   }
 }
