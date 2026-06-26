@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-25T09:26:24.110Z",
+  "generatedAt": "2026-06-26T09:32:26.968Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-      "url": "https://www.qbitai.com/2026/06/438365.html",
-      "publishedAt": "2026-06-25T07:02:16.000Z",
-      "summary": "Claude已经，俨然成为了新一代电子老公。"
+      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+      "url": "https://www.qbitai.com/2026/06/438848.html",
+      "publishedAt": "2026-06-26T08:05:07.000Z",
+      "summary": "Coding为王"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
-      "url": "https://www.qbitai.com/2026/06/438351.html",
-      "publishedAt": "2026-06-25T04:35:18.000Z",
-      "summary": "互利共赢的生态繁荣"
+      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+      "url": "https://www.qbitai.com/2026/06/438789.html",
+      "publishedAt": "2026-06-26T06:55:20.000Z",
+      "summary": "这不能是营销计划的一部分吧？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
-      "url": "https://www.qbitai.com/2026/06/438336.html",
-      "publishedAt": "2026-06-25T04:29:49.000Z",
-      "summary": "中国AI应用公司并没有停留在追赶全球浪潮"
+      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+      "url": "https://www.qbitai.com/2026/06/438750.html",
+      "publishedAt": "2026-06-26T05:12:46.000Z",
+      "summary": "精准识别设计系统"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
-      "url": "https://www.qbitai.com/2026/06/438297.html",
-      "publishedAt": "2026-06-25T02:22:43.000Z",
-      "summary": "谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？"
+      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+      "url": "https://www.qbitai.com/2026/06/438741.html",
+      "publishedAt": "2026-06-26T04:00:59.000Z",
+      "summary": "共建工业物理智能“数据底座与智能大脑”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
-      "url": "https://www.qbitai.com/2026/06/438204.html",
-      "publishedAt": "2026-06-25T00:32:50.000Z",
-      "summary": "专业版上线，首开付费模式"
+      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+      "url": "https://www.qbitai.com/2026/06/438701.html",
+      "publishedAt": "2026-06-26T03:47:08.000Z",
+      "summary": "提前200毫秒预判"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "世界模型混战，Momenta率先冲刺IPO",
-      "url": "https://www.qbitai.com/2026/06/438179.html",
-      "publishedAt": "2026-06-24T23:20:28.000Z",
-      "summary": "AI司机收入3年涨42倍"
+      "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+      "url": "https://www.qbitai.com/2026/06/438703.html",
+      "publishedAt": "2026-06-26T03:23:35.000Z",
+      "summary": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine"
     }
   ],
   "stats": {
