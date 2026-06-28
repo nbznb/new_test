@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-06-27T08:39:43.193Z",
+  "generatedAt": "2026-06-28T08:56:28.632Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "url": "https://www.qbitai.com/2026/06/439032.html",
-      "publishedAt": "2026-06-27T04:48:02.000Z",
-      "summary": "28页干货爆炸"
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "url": "https://www.qbitai.com/2026/06/439548.html",
+      "publishedAt": "2026-06-28T08:06:04.000Z",
+      "summary": "精髓在于极强的系统工程"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "url": "https://www.qbitai.com/2026/06/438895.html",
-      "publishedAt": "2026-06-27T01:53:27.000Z",
-      "summary": "一口气端出三款GPT 5.6系列模型"
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "url": "https://www.qbitai.com/2026/06/439515.html",
+      "publishedAt": "2026-06-28T07:56:22.000Z",
+      "summary": "GitHub 20k Star"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
-      "url": "https://www.qbitai.com/2026/06/438887.html",
-      "publishedAt": "2026-06-26T15:45:43.000Z",
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "url": "https://www.qbitai.com/2026/06/439464.html",
+      "publishedAt": "2026-06-28T06:04:17.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
-      "url": "https://www.qbitai.com/2026/06/438698.html",
-      "publishedAt": "2026-06-26T02:58:50.000Z",
-      "summary": ""
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "url": "https://www.qbitai.com/2026/06/439393.html",
+      "publishedAt": "2026-06-27T12:29:33.000Z",
+      "summary": "人类一次录制，Agent就能模拟"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "第一批一人公司，现在怎么样了？",
+      "url": "https://www.qbitai.com/2026/06/439237.html",
+      "publishedAt": "2026-06-27T12:23:29.000Z",
+      "summary": "我们跟一群OPC创业者聊了聊"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "url": "https://www.qbitai.com/2026/06/439236.html",
+      "publishedAt": "2026-06-27T12:19:42.000Z",
+      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
