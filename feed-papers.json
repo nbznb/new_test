@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-06-30T09:41:12.080Z",
+  "generatedAt": "2026-07-01T09:52:55.678Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "中国信通院发布AI Infra运维领域首个评测基准",
-      "url": "https://www.qbitai.com/2026/06/440454.html",
-      "publishedAt": "2026-06-30T07:20:26.000Z",
-      "summary": "覆盖 5 款主流国产芯片"
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "url": "https://www.qbitai.com/2026/07/441246.html",
+      "publishedAt": "2026-07-01T07:41:42.000Z",
+      "summary": "Taste，决定天花板。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
-      "url": "https://www.qbitai.com/2026/06/440332.html",
-      "publishedAt": "2026-06-30T06:51:05.000Z",
-      "summary": "内存涨疯了"
+      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "url": "https://www.qbitai.com/2026/07/441240.html",
+      "publishedAt": "2026-07-01T07:32:23.000Z",
+      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
-      "url": "https://www.qbitai.com/2026/06/440236.html",
-      "publishedAt": "2026-06-30T05:53:21.000Z",
-      "summary": "能聊、能唱跳、能陪你玩游戏"
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "url": "https://www.qbitai.com/2026/07/441237.html",
+      "publishedAt": "2026-07-01T07:29:32.000Z",
+      "summary": "共同推进物理AI前沿技术探索。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Agent之间，有互联网了！",
-      "url": "https://www.qbitai.com/2026/06/440199.html",
-      "publishedAt": "2026-06-30T05:23:36.000Z",
-      "summary": "明略科技开源发布Octo"
+      "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+      "url": "https://www.qbitai.com/2026/07/441225.html",
+      "publishedAt": "2026-07-01T07:24:48.000Z",
+      "summary": "重写“AI如何反复推演世界”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
-      "url": "https://www.qbitai.com/2026/06/440162.html",
-      "publishedAt": "2026-06-30T04:08:11.000Z",
-      "summary": "好消息是V4正式版能力有升级"
+      "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+      "url": "https://www.qbitai.com/2026/07/441183.html",
+      "publishedAt": "2026-07-01T07:15:29.000Z",
+      "summary": "已流片"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
-      "url": "https://www.qbitai.com/2026/06/440024.html",
-      "publishedAt": "2026-06-30T03:27:05.000Z",
-      "summary": "AI时代：认知＞格局＞技术＞管理。"
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "url": "https://www.qbitai.com/2026/07/441140.html",
+      "publishedAt": "2026-07-01T06:26:06.000Z",
+      "summary": "四大互联网分别领投"
     }
   ],
   "stats": {
