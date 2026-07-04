@@ -1,44 +1,26 @@
 {
-  "generatedAt": "2026-07-03T09:22:02.933Z",
+  "generatedAt": "2026-07-04T08:40:48.926Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "publishedAt": "2026-07-03T09:00:00.000Z",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.…"
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "publishedAt": "2026-07-03T17:34:37.000Z",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "publishedAt": "2026-07-02T15:37:08.000Z",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "publishedAt": "2026-07-02T12:51:44.000Z",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "publishedAt": "2026-07-02T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…"
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "publishedAt": "2026-07-03T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…"
     }
   ],
   "stats": {
-    "techItems": 4
+    "techItems": 2
   }
 }
