@@ -1,62 +1,26 @@
 {
-  "generatedAt": "2026-07-04T08:40:48.926Z",
+  "generatedAt": "2026-07-05T08:56:02.841Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "publishedAt": "2026-07-04T05:52:21.000Z",
-      "summary": ""
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "publishedAt": "2026-07-05T06:59:11.000Z",
+      "summary": "一段视频，生成无限训练场景"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "url": "https://www.qbitai.com/2026/07/442746.html",
-      "publishedAt": "2026-07-03T14:28:38.000Z",
-      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
-      "url": "https://www.qbitai.com/2026/07/442567.html",
-      "publishedAt": "2026-07-03T12:17:37.000Z",
-      "summary": "单词数r也是风险问题？！"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
-      "url": "https://www.qbitai.com/2026/07/442531.html",
-      "publishedAt": "2026-07-03T10:46:18.000Z",
-      "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
-      "url": "https://www.qbitai.com/2026/07/442517.html",
-      "publishedAt": "2026-07-03T10:28:43.000Z",
-      "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
-      "url": "https://www.qbitai.com/2026/07/442503.html",
-      "publishedAt": "2026-07-03T10:26:36.000Z",
-      "summary": ""
+      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+      "url": "https://www.qbitai.com/2026/07/442964.html",
+      "publishedAt": "2026-07-05T06:52:17.000Z",
+      "summary": "迈向持续学习的世界模型"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 2
   }
 }
