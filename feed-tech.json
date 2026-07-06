@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-05T08:56:02.841Z",
-  "tech": [],
+  "generatedAt": "2026-07-06T10:28:01.001Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "publishedAt": "2026-07-06T09:00:00.000Z",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 1
   }
 }
