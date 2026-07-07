@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-07-06T10:28:01.002Z",
+  "generatedAt": "2026-07-07T09:46:24.427Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "模型不是企业的护城河，那什么才是？",
-      "url": "https://www.qbitai.com/2026/07/443842.html",
-      "publishedAt": "2026-07-06T08:17:34.000Z",
-      "summary": "大模型越来越强，为什么企业没有跟着变强"
+      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+      "url": "https://www.qbitai.com/2026/07/445443.html",
+      "publishedAt": "2026-07-07T08:32:27.000Z",
+      "summary": "“共识与非共识”的深度思辨"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "字节Seedance，正在占领好莱坞",
-      "url": "https://www.qbitai.com/2026/07/443665.html",
-      "publishedAt": "2026-07-06T07:49:13.000Z",
-      "summary": "美国电影人：好东西不问出处"
+      "title": "我宣布这是中国最神奇的造车新势力",
+      "url": "https://www.qbitai.com/2026/07/445292.html",
+      "publishedAt": "2026-07-07T07:23:33.000Z",
+      "summary": "仅靠一款车5年不倒"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
-      "url": "https://www.qbitai.com/2026/07/443606.html",
-      "publishedAt": "2026-07-06T07:38:15.000Z",
-      "summary": "正考虑推出Meta Compute"
+      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+      "url": "https://www.qbitai.com/2026/07/445229.html",
+      "publishedAt": "2026-07-07T05:03:09.000Z",
+      "summary": "从文字说明书到多模态经验库"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
-      "url": "https://www.qbitai.com/2026/07/443559.html",
-      "publishedAt": "2026-07-06T04:14:08.000Z",
-      "summary": "少烧钱、真交付"
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "url": "https://www.qbitai.com/2026/07/445230.html",
+      "publishedAt": "2026-07-07T04:48:40.000Z",
+      "summary": "来自蚂蚁灵波"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
-      "url": "https://www.qbitai.com/2026/07/443522.html",
-      "publishedAt": "2026-07-06T01:54:37.000Z",
+      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.qbitai.com/2026/07/445184.html",
+      "publishedAt": "2026-07-07T03:35:02.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
-      "url": "https://www.qbitai.com/2026/07/443399.html",
-      "publishedAt": "2026-07-06T01:45:55.000Z",
+      "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+      "url": "https://www.qbitai.com/2026/07/445067.html",
+      "publishedAt": "2026-07-07T03:24:55.000Z",
       "summary": ""
     }
   ],
