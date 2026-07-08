@@ -1,62 +1,53 @@
 {
-  "generatedAt": "2026-07-07T09:46:24.427Z",
+  "generatedAt": "2026-07-08T08:33:01.795Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
-      "url": "https://www.qbitai.com/2026/07/445443.html",
-      "publishedAt": "2026-07-07T08:32:27.000Z",
-      "summary": "“共识与非共识”的深度思辨"
+      "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+      "url": "https://www.qbitai.com/2026/07/445883.html",
+      "publishedAt": "2026-07-08T04:47:04.000Z",
+      "summary": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "我宣布这是中国最神奇的造车新势力",
-      "url": "https://www.qbitai.com/2026/07/445292.html",
-      "publishedAt": "2026-07-07T07:23:33.000Z",
-      "summary": "仅靠一款车5年不倒"
+      "title": "60000小时炼出新开源VLA！20多种机器人都能用",
+      "url": "https://www.qbitai.com/2026/07/445678.html",
+      "publishedAt": "2026-07-08T03:54:42.000Z",
+      "summary": "蚂蚁灵波Lingbot-VLA 2.0"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-      "url": "https://www.qbitai.com/2026/07/445229.html",
-      "publishedAt": "2026-07-07T05:03:09.000Z",
-      "summary": "从文字说明书到多模态经验库"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "url": "https://www.qbitai.com/2026/07/445230.html",
-      "publishedAt": "2026-07-07T04:48:40.000Z",
-      "summary": "来自蚂蚁灵波"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-      "url": "https://www.qbitai.com/2026/07/445184.html",
-      "publishedAt": "2026-07-07T03:35:02.000Z",
+      "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
+      "url": "https://www.qbitai.com/2026/07/445668.html",
+      "publishedAt": "2026-07-08T03:04:08.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-      "url": "https://www.qbitai.com/2026/07/445067.html",
-      "publishedAt": "2026-07-07T03:24:55.000Z",
-      "summary": ""
+      "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+      "url": "https://www.qbitai.com/2026/07/445531.html",
+      "publishedAt": "2026-07-08T00:44:02.000Z",
+      "summary": "机器人开始自己造自己了。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+      "url": "https://www.qbitai.com/2026/07/445608.html",
+      "publishedAt": "2026-07-07T11:43:08.000Z",
+      "summary": "难怪DeepSeek要着重强调招HR（doge）"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 5
   }
 }
