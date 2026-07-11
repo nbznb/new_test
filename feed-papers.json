@@ -1,53 +1,62 @@
 {
-  "generatedAt": "2026-07-10T09:39:35.214Z",
+  "generatedAt": "2026-07-11T08:00:12.467Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-      "url": "https://www.qbitai.com/2026/07/447627.html",
-      "publishedAt": "2026-07-10T08:01:00.000Z",
-      "summary": "开源第四弹：LingBot-VA 2.0"
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "publishedAt": "2026-07-11T06:26:46.000Z",
+      "summary": "从FP64到INT8，全精度覆盖。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "url": "https://www.qbitai.com/2026/07/447602.html",
-      "publishedAt": "2026-07-10T04:44:38.000Z",
-      "summary": "字节也入局了"
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "publishedAt": "2026-07-11T05:30:11.000Z",
+      "summary": "神话级大模型驾驭宝典"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "url": "https://www.qbitai.com/2026/07/447597.html",
-      "publishedAt": "2026-07-10T03:28:59.000Z",
-      "summary": ""
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "url": "https://www.qbitai.com/2026/07/447846.html",
+      "publishedAt": "2026-07-10T17:18:11.000Z",
+      "summary": "四大方向，奖金直给"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-      "url": "https://www.qbitai.com/2026/07/447508.html",
-      "publishedAt": "2026-07-09T12:18:17.000Z",
-      "summary": "“已经出现泛化涌现”"
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "url": "https://www.qbitai.com/2026/07/447832.html",
+      "publishedAt": "2026-07-10T14:13:37.000Z",
+      "summary": "AI变为研发流程的“组织者”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
-      "url": "https://www.qbitai.com/2026/07/446843.html",
-      "publishedAt": "2026-07-09T09:48:29.000Z",
+      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
+      "url": "https://www.qbitai.com/2026/07/447796.html",
+      "publishedAt": "2026-07-10T09:45:01.000Z",
+      "summary": "把数据闭环搬进卧室"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "url": "https://www.qbitai.com/2026/07/447691.html",
+      "publishedAt": "2026-07-10T09:41:25.000Z",
       "summary": ""
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   }
 }
