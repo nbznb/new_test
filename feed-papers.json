@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-07-11T08:00:12.467Z",
+  "generatedAt": "2026-07-12T08:22:02.042Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
+      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+      "url": "https://www.qbitai.com/2026/07/447981.html",
+      "publishedAt": "2026-07-12T01:37:11.000Z",
+      "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "url": "https://www.qbitai.com/2026/07/447914.html",
+      "publishedAt": "2026-07-12T01:14:50.000Z",
+      "summary": "为了帮你看清具身数据行业，我们总结了以下十个行业现状"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
       "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447891.html",
-      "publishedAt": "2026-07-11T06:26:46.000Z",
-      "summary": "从FP64到INT8，全精度覆盖。"
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "publishedAt": "2026-07-11T10:07:17.000Z",
+      "summary": "已跑通300余项应用"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-      "url": "https://www.qbitai.com/2026/07/447873.html",
-      "publishedAt": "2026-07-11T05:30:11.000Z",
-      "summary": "神话级大模型驾驭宝典"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
-      "url": "https://www.qbitai.com/2026/07/447846.html",
-      "publishedAt": "2026-07-10T17:18:11.000Z",
-      "summary": "四大方向，奖金直给"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-      "url": "https://www.qbitai.com/2026/07/447832.html",
-      "publishedAt": "2026-07-10T14:13:37.000Z",
-      "summary": "AI变为研发流程的“组织者”"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "一群做自动驾驶的人，盯上了睡眠这件事",
-      "url": "https://www.qbitai.com/2026/07/447796.html",
-      "publishedAt": "2026-07-10T09:45:01.000Z",
-      "summary": "把数据闭环搬进卧室"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-      "url": "https://www.qbitai.com/2026/07/447691.html",
-      "publishedAt": "2026-07-10T09:41:25.000Z",
+      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "url": "https://www.qbitai.com/2026/07/447682.html",
+      "publishedAt": "2026-07-10T09:32:09.000Z",
       "summary": ""
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
