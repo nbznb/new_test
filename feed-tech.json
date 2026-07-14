@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-07-13T09:32:00.036Z",
-  "tech": [],
+  "generatedAt": "2026-07-14T08:10:08.806Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "publishedAt": "2026-07-13T18:00:00.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "publishedAt": "2026-07-13T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 2
   }
 }
