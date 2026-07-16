@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-15T08:15:59.803Z",
+  "generatedAt": "2026-07-16T08:17:54.437Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
-      "url": "https://www.qbitai.com/2026/07/450652.html",
-      "publishedAt": "2026-07-15T06:43:37.000Z",
+      "title": "一位失忆患者，揭开了AI记忆的误区",
+      "url": "https://www.qbitai.com/2026/07/451049.html",
+      "publishedAt": "2026-07-16T07:34:14.000Z",
+      "summary": "记忆能够独立成层"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
+      "url": "https://www.qbitai.com/2026/07/450921.html",
+      "publishedAt": "2026-07-16T04:47:55.000Z",
+      "summary": "苹果怒斥：烂到骨子里"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+      "url": "https://www.qbitai.com/2026/07/450917.html",
+      "publishedAt": "2026-07-16T04:02:31.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
-      "url": "https://www.qbitai.com/2026/07/450385.html",
-      "publishedAt": "2026-07-15T04:46:18.000Z",
-      "summary": "难怪苹果急眼了"
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "publishedAt": "2026-07-16T02:30:46.000Z",
+      "summary": "后训练中真机数据需求骤降60%"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "url": "https://www.qbitai.com/2026/07/450250.html",
-      "publishedAt": "2026-07-15T03:48:46.000Z",
+      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+      "url": "https://www.qbitai.com/2026/07/450841.html",
+      "publishedAt": "2026-07-15T09:45:53.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
-      "url": "https://www.qbitai.com/2026/07/450101.html",
-      "publishedAt": "2026-07-15T00:54:59.000Z",
-      "summary": "距首轮估值上涨37%"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "阶跃入局，重构智能体时代操作系统",
-      "url": "https://www.qbitai.com/2026/07/449979.html",
-      "publishedAt": "2026-07-14T18:43:55.000Z",
-      "summary": "董事长印奇称“未来的OS一定是跨端的”"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
-      "url": "https://www.qbitai.com/2026/07/448475.html",
-      "publishedAt": "2026-07-14T12:36:48.000Z",
-      "summary": "一手实测这就奉上"
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "url": "https://www.qbitai.com/2026/07/450831.html",
+      "publishedAt": "2026-07-15T09:18:03.000Z",
+      "summary": ""
     }
   ],
   "stats": {
