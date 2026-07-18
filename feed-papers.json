@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-17T08:13:20.736Z",
+  "generatedAt": "2026-07-18T07:54:59.553Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI官方教你8招玩透ChatGPT！",
-      "url": "https://www.qbitai.com/2026/07/452611.html",
-      "publishedAt": "2026-07-17T05:11:53.000Z",
+      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+      "url": "https://www.qbitai.com/2026/07/453641.html",
+      "publishedAt": "2026-07-18T03:41:17.000Z",
+      "summary": "3500亿估值曝光"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
+      "url": "https://www.qbitai.com/2026/07/453631.html",
+      "publishedAt": "2026-07-18T03:39:51.000Z",
+      "summary": "图灵奖得主、两院院士……精彩、太精彩"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
+      "url": "https://www.qbitai.com/2026/07/453617.html",
+      "publishedAt": "2026-07-18T03:31:48.000Z",
+      "summary": "让每一份算力都变成有效Token"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+      "url": "https://www.qbitai.com/2026/07/453530.html",
+      "publishedAt": "2026-07-18T03:01:18.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "url": "https://www.qbitai.com/2026/07/451691.html",
-      "publishedAt": "2026-07-17T02:41:03.000Z",
+      "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "publishedAt": "2026-07-18T01:17:23.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
-      "url": "https://www.qbitai.com/2026/07/451576.html",
-      "publishedAt": "2026-07-16T15:12:41.000Z",
-      "summary": "最快下周一提车"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
-      "url": "https://www.qbitai.com/2026/07/451403.html",
-      "publishedAt": "2026-07-16T10:51:10.000Z",
-      "summary": "还能让机器人边干边学"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "url": "https://www.qbitai.com/2026/07/451371.html",
-      "publishedAt": "2026-07-16T09:29:09.000Z",
-      "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "url": "https://www.qbitai.com/2026/07/451379.html",
-      "publishedAt": "2026-07-16T09:25:17.000Z",
-      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”"
+      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+      "url": "https://www.qbitai.com/2026/07/453467.html",
+      "publishedAt": "2026-07-17T22:32:47.000Z",
+      "summary": "万亿Token调用量验证"
     }
   ],
   "stats": {
