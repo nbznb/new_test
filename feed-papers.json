@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-07-21T08:33:08.022Z",
+  "generatedAt": "2026-07-22T08:32:52.827Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
-      "url": "https://www.qbitai.com/2026/07/455993.html",
-      "publishedAt": "2026-07-21T06:03:10.000Z",
+      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+      "url": "https://www.qbitai.com/2026/07/457117.html",
+      "publishedAt": "2026-07-22T07:31:19.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
-      "url": "https://www.qbitai.com/2026/07/455979.html",
-      "publishedAt": "2026-07-21T05:44:29.000Z",
-      "summary": ""
+      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+      "url": "https://www.qbitai.com/2026/07/457054.html",
+      "publishedAt": "2026-07-22T05:47:42.000Z",
+      "summary": "一颗“不走寻常路”的芯"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-      "url": "https://www.qbitai.com/2026/07/455963.html",
-      "publishedAt": "2026-07-20T10:42:09.000Z",
-      "summary": ""
+      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+      "url": "https://www.qbitai.com/2026/07/457049.html",
+      "publishedAt": "2026-07-22T04:10:16.000Z",
+      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "url": "https://www.qbitai.com/2026/07/455805.html",
-      "publishedAt": "2026-07-20T10:33:23.000Z",
-      "summary": "大模型时代的共同选择"
+      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+      "url": "https://www.qbitai.com/2026/07/457040.html",
+      "publishedAt": "2026-07-22T03:54:49.000Z",
+      "summary": "从答题响应到心智仿真"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
-      "url": "https://www.qbitai.com/2026/07/455791.html",
-      "publishedAt": "2026-07-20T09:54:33.000Z",
-      "summary": ""
+      "title": "我在WAIC 2026看见的十大趋势",
+      "url": "https://www.qbitai.com/2026/07/456974.html",
+      "publishedAt": "2026-07-22T03:46:30.000Z",
+      "summary": "没有人因此热情减退"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-      "url": "https://www.qbitai.com/2026/07/455729.html",
-      "publishedAt": "2026-07-20T09:41:49.000Z",
+      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+      "url": "https://www.qbitai.com/2026/07/456910.html",
+      "publishedAt": "2026-07-22T03:24:37.000Z",
       "summary": ""
     }
   ],
