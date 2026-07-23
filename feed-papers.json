@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-22T08:32:52.827Z",
+  "generatedAt": "2026-07-23T08:34:03.423Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-      "url": "https://www.qbitai.com/2026/07/457117.html",
-      "publishedAt": "2026-07-22T07:31:19.000Z",
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "url": "https://www.qbitai.com/2026/07/457694.html",
+      "publishedAt": "2026-07-23T06:58:23.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-      "url": "https://www.qbitai.com/2026/07/457054.html",
-      "publishedAt": "2026-07-22T05:47:42.000Z",
-      "summary": "一颗“不走寻常路”的芯"
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "url": "https://www.qbitai.com/2026/07/457537.html",
+      "publishedAt": "2026-07-23T06:36:08.000Z",
+      "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-      "url": "https://www.qbitai.com/2026/07/457049.html",
-      "publishedAt": "2026-07-22T04:10:16.000Z",
-      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景"
+      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+      "url": "https://www.qbitai.com/2026/07/457534.html",
+      "publishedAt": "2026-07-23T04:42:52.000Z",
+      "summary": "推进华东区域业务布局的重要一步"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
-      "url": "https://www.qbitai.com/2026/07/457040.html",
-      "publishedAt": "2026-07-22T03:54:49.000Z",
-      "summary": "从答题响应到心智仿真"
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "publishedAt": "2026-07-23T03:28:24.000Z",
+      "summary": "一台机器人的「多任务实战」"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "我在WAIC 2026看见的十大趋势",
-      "url": "https://www.qbitai.com/2026/07/456974.html",
-      "publishedAt": "2026-07-22T03:46:30.000Z",
-      "summary": "没有人因此热情减退"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-      "url": "https://www.qbitai.com/2026/07/456910.html",
-      "publishedAt": "2026-07-22T03:24:37.000Z",
+      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+      "url": "https://www.qbitai.com/2026/07/457434.html",
+      "publishedAt": "2026-07-23T02:40:36.000Z",
       "summary": ""
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "url": "https://www.qbitai.com/2026/07/457405.html",
+      "publishedAt": "2026-07-23T02:09:03.000Z",
+      "summary": "开源AI软件栈SAIL，260+框架即开即用"
     }
   ],
   "stats": {
