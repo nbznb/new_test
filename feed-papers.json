@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-23T08:34:03.423Z",
+  "generatedAt": "2026-07-24T08:30:43.299Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
-      "url": "https://www.qbitai.com/2026/07/457694.html",
-      "publishedAt": "2026-07-23T06:58:23.000Z",
+      "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
+      "url": "https://www.qbitai.com/2026/07/458864.html",
+      "publishedAt": "2026-07-24T05:50:48.000Z",
+      "summary": "\"看得懂、定得准\"的智能运维底座"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
+      "url": "https://www.qbitai.com/2026/07/458687.html",
+      "publishedAt": "2026-07-24T05:41:17.000Z",
+      "summary": "再长的上下文也救不了长内容任务"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "OPC创业者看过来，最高10万美元云资源等你拿",
+      "url": "https://www.qbitai.com/2026/07/458622.html",
+      "publishedAt": "2026-07-24T05:05:38.000Z",
+      "summary": "还有明星导师阵容"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "10万字速记一口吞，金山办公新Agent开始直接交活了",
+      "url": "https://www.qbitai.com/2026/07/458438.html",
+      "publishedAt": "2026-07-24T04:45:28.000Z",
+      "summary": "重做一遍WPS"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+      "url": "https://www.qbitai.com/2026/07/458357.html",
+      "publishedAt": "2026-07-24T04:21:28.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "url": "https://www.qbitai.com/2026/07/457537.html",
-      "publishedAt": "2026-07-23T06:36:08.000Z",
-      "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
-      "url": "https://www.qbitai.com/2026/07/457534.html",
-      "publishedAt": "2026-07-23T04:42:52.000Z",
-      "summary": "推进华东区域业务布局的重要一步"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
-      "url": "https://www.qbitai.com/2026/07/457469.html",
-      "publishedAt": "2026-07-23T03:28:24.000Z",
-      "summary": "一台机器人的「多任务实战」"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-      "url": "https://www.qbitai.com/2026/07/457434.html",
-      "publishedAt": "2026-07-23T02:40:36.000Z",
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "url": "https://www.qbitai.com/2026/07/458348.html",
+      "publishedAt": "2026-07-24T04:19:34.000Z",
       "summary": ""
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-      "url": "https://www.qbitai.com/2026/07/457405.html",
-      "publishedAt": "2026-07-23T02:09:03.000Z",
-      "summary": "开源AI软件栈SAIL，260+框架即开即用"
     }
   ],
   "stats": {
