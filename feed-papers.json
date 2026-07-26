@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-25T08:09:08.756Z",
+  "generatedAt": "2026-07-26T08:29:27.668Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-      "url": "https://www.qbitai.com/2026/07/460174.html",
-      "publishedAt": "2026-07-25T03:21:53.000Z",
-      "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "publishedAt": "2026-07-26T05:30:21.000Z",
+      "summary": "项目数据模型均开源"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-      "url": "https://www.qbitai.com/2026/07/460154.html",
-      "publishedAt": "2026-07-24T14:42:32.000Z",
-      "summary": "跑出原生全模态新路径"
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "publishedAt": "2026-07-25T12:35:34.000Z",
+      "summary": "开源、隐私、本地优先、模型无关"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "publishedAt": "2026-07-24T14:19:06.000Z",
-      "summary": "给它一张图，还你整个世界"
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "url": "https://www.qbitai.com/2026/07/460542.html",
+      "publishedAt": "2026-07-25T12:24:27.000Z",
+      "summary": "这是机器人领域最好的时代"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-      "url": "https://www.qbitai.com/2026/07/460042.html",
-      "publishedAt": "2026-07-24T11:10:26.000Z",
-      "summary": "王虹主页唯一没挂链接的论文"
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "publishedAt": "2026-07-25T12:11:39.000Z",
+      "summary": "模型变强，Claude Code系统提示词都精简了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "url": "https://www.qbitai.com/2026/07/459432.html",
-      "publishedAt": "2026-07-24T09:57:35.000Z",
-      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程"
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "publishedAt": "2026-07-25T11:54:44.000Z",
+      "summary": "不做人形，抓住真实用户需求"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
-      "url": "https://www.qbitai.com/2026/07/459402.html",
-      "publishedAt": "2026-07-24T08:50:26.000Z",
-      "summary": ""
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "url": "https://www.qbitai.com/2026/07/460186.html",
+      "publishedAt": "2026-07-25T11:07:25.000Z",
+      "summary": "工业圈和学术圈“唱反调”"
     }
   ],
   "stats": {
