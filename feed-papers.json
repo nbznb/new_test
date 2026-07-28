@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-07-27T09:56:03.570Z",
+  "generatedAt": "2026-07-28T08:38:07.390Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
-      "url": "https://www.qbitai.com/2026/07/461398.html",
-      "publishedAt": "2026-07-27T09:05:21.000Z",
+      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+      "url": "https://www.qbitai.com/2026/07/461939.html",
+      "publishedAt": "2026-07-28T07:32:47.000Z",
+      "summary": "从“工具效率”到“认知理解”，教育AI进入深水区"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+      "url": "https://www.qbitai.com/2026/07/461911.html",
+      "publishedAt": "2026-07-28T05:46:59.000Z",
+      "summary": "迷人的Scaling曲线"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+      "url": "https://www.qbitai.com/2026/07/461827.html",
+      "publishedAt": "2026-07-28T05:25:31.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-      "url": "https://www.qbitai.com/2026/07/461392.html",
-      "publishedAt": "2026-07-27T08:54:16.000Z",
+      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+      "url": "https://www.qbitai.com/2026/07/461650.html",
+      "publishedAt": "2026-07-28T04:18:15.000Z",
+      "summary": "扩散模型首次打通长程Agent任务"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "智能体走向终端，个人AI时代正在到来",
+      "url": "https://www.qbitai.com/2026/07/461565.html",
+      "publishedAt": "2026-07-28T01:38:58.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "老黄「开源协议」就剩一家没签，是谁啊好难猜啊",
-      "url": "https://www.qbitai.com/2026/07/461341.html",
-      "publishedAt": "2026-07-27T07:55:59.000Z",
-      "summary": "Denny’s和英伟达，有一项核心业务高度重叠"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI最尴尬的短板，中国科学院出手了",
-      "url": "https://www.qbitai.com/2026/07/461160.html",
-      "publishedAt": "2026-07-27T05:00:12.000Z",
-      "summary": "把“情商”做成了一套可测可训的工程"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
-      "url": "https://www.qbitai.com/2026/07/461226.html",
-      "publishedAt": "2026-07-27T04:33:09.000Z",
-      "summary": "让中国品牌赢在全球"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-      "url": "https://www.qbitai.com/2026/07/461220.html",
-      "publishedAt": "2026-07-27T04:29:38.000Z",
-      "summary": "这轮融资计划至少募资100亿元"
+      "title": "突发，翁荔离职Thinking Machines",
+      "url": "https://www.qbitai.com/2026/07/461517.html",
+      "publishedAt": "2026-07-28T01:21:00.000Z",
+      "summary": "20个月「像过完了一辈子」"
     }
   ],
   "stats": {
