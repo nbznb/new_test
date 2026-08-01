@@ -1,53 +1,62 @@
 {
-  "generatedAt": "2026-07-31T08:52:58.321Z",
+  "generatedAt": "2026-08-01T08:24:08.570Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "米哈游蔡浩宇AI创业生变",
-      "url": "https://www.qbitai.com/2026/07/464169.html",
-      "publishedAt": "2026-07-31T07:22:37.000Z",
-      "summary": "多个项目暂停，九成资源押向Agent"
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "url": "https://www.qbitai.com/2026/08/464693.html",
+      "publishedAt": "2026-08-01T05:02:49.000Z",
+      "summary": "对前沿实验室估值悲观"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "姚顺雨拿50年数学难题成绩单，招人了",
-      "url": "https://www.qbitai.com/2026/07/464100.html",
-      "publishedAt": "2026-07-31T06:54:57.000Z",
-      "summary": "AI for Science方向"
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "publishedAt": "2026-08-01T04:53:33.000Z",
+      "summary": "下一场竞争，是谁能造出更多“有用的世界”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "学习强国做了个AI社区，两周铺进68座城市",
-      "url": "https://www.qbitai.com/2026/07/463727.html",
-      "publishedAt": "2026-07-31T06:47:00.000Z",
-      "summary": ""
+      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+      "url": "https://www.qbitai.com/2026/08/464452.html",
+      "publishedAt": "2026-08-01T03:38:10.000Z",
+      "summary": "三本教科书，救活英伟达"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-5.6今起大降价，最大幅度80%！",
-      "url": "https://www.qbitai.com/2026/07/463640.html",
-      "publishedAt": "2026-07-31T03:01:21.000Z",
-      "summary": "Luna打骨折"
+      "title": "Anthropic模型，也失控了。。。",
+      "url": "https://www.qbitai.com/2026/08/464412.html",
+      "publishedAt": "2026-08-01T03:18:46.000Z",
+      "summary": "14万次测试翻旧账"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-      "url": "https://www.qbitai.com/2026/07/463433.html",
-      "publishedAt": "2026-07-30T08:57:55.000Z",
-      "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵"
+      "title": "AI顶会现场，见到了一家美妆巨头",
+      "url": "https://www.qbitai.com/2026/08/464364.html",
+      "publishedAt": "2026-08-01T02:52:18.000Z",
+      "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+      "url": "https://www.qbitai.com/2026/07/464328.html",
+      "publishedAt": "2026-07-31T09:11:32.000Z",
+      "summary": "开源项目GitHub狂揽8000+Star"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   }
 }
