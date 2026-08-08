@@ -1,62 +1,53 @@
 {
-  "generatedAt": "2026-08-07T07:19:21.837Z",
+  "generatedAt": "2026-08-08T06:57:16.914Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "publishedAt": "2026-08-07T06:18:51.000Z",
-      "summary": "从「能用」走向「规模化落地」"
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "url": "https://www.qbitai.com/2026/08/468462.html",
+      "publishedAt": "2026-08-08T04:33:53.000Z",
+      "summary": "唉，赶紧整完快点发布吧。。。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-      "url": "https://www.qbitai.com/2026/08/467878.html",
-      "publishedAt": "2026-08-07T05:30:08.000Z",
-      "summary": "AI卷向运动赛道，Keep的新答卷能否跑通？"
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publishedAt": "2026-08-08T02:45:02.000Z",
+      "summary": "再花15亿美元买现成AI编程团队"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "url": "https://www.qbitai.com/2026/08/467877.html",
-      "publishedAt": "2026-08-07T03:23:54.000Z",
-      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "publishedAt": "2026-08-08T02:35:38.000Z",
+      "summary": "啊，这真是个AI“失控”的夏天"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "url": "https://www.qbitai.com/2026/08/467879.html",
-      "publishedAt": "2026-08-07T03:23:01.000Z",
-      "summary": "Chat优化版"
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "publishedAt": "2026-08-07T07:43:06.000Z",
+      "summary": "AI语音“听、说、创”一站式满足"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "url": "https://www.qbitai.com/2026/08/467871.html",
-      "publishedAt": "2026-08-07T03:08:51.000Z",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "url": "https://www.qbitai.com/2026/08/467840.html",
-      "publishedAt": "2026-08-07T02:56:46.000Z",
-      "summary": "算力、网络、内存与存储开始围绕每个Token协同"
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "publishedAt": "2026-08-07T06:21:05.000Z",
+      "summary": ""
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 5
   }
 }
