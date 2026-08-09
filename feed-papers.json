@@ -1,53 +1,62 @@
 {
-  "generatedAt": "2026-08-08T06:57:16.914Z",
+  "generatedAt": "2026-08-09T06:59:42.886Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-      "url": "https://www.qbitai.com/2026/08/468462.html",
-      "publishedAt": "2026-08-08T04:33:53.000Z",
-      "summary": "唉，赶紧整完快点发布吧。。。"
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "url": "https://www.qbitai.com/2026/08/468782.html",
+      "publishedAt": "2026-08-09T03:40:25.000Z",
+      "summary": "AI参与创造下一代AI"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-      "url": "https://www.qbitai.com/2026/08/468398.html",
-      "publishedAt": "2026-08-08T02:45:02.000Z",
-      "summary": "再花15亿美元买现成AI编程团队"
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "url": "https://www.qbitai.com/2026/08/468766.html",
+      "publishedAt": "2026-08-09T03:25:00.000Z",
+      "summary": "据说GPT-5.6很适合拿来做游戏"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "url": "https://www.qbitai.com/2026/08/468338.html",
-      "publishedAt": "2026-08-08T02:35:38.000Z",
-      "summary": "啊，这真是个AI“失控”的夏天"
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "url": "https://www.qbitai.com/2026/08/468715.html",
+      "publishedAt": "2026-08-09T03:17:18.000Z",
+      "summary": "谷歌缓兵之计把人留下"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "publishedAt": "2026-08-07T07:43:06.000Z",
-      "summary": "AI语音“听、说、创”一站式满足"
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "url": "https://www.qbitai.com/2026/08/468631.html",
+      "publishedAt": "2026-08-08T07:57:35.000Z",
+      "summary": "这就有些尴尬了。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-      "url": "https://www.qbitai.com/2026/08/466738.html",
-      "publishedAt": "2026-08-07T06:21:05.000Z",
-      "summary": ""
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "url": "https://www.qbitai.com/2026/08/468555.html",
+      "publishedAt": "2026-08-08T07:56:09.000Z",
+      "summary": "海外团队纷纷下注，NeoLab浪潮狂飙"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "url": "https://www.qbitai.com/2026/08/468498.html",
+      "publishedAt": "2026-08-08T07:51:53.000Z",
+      "summary": "「我，Jeff Dean，打钱」"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   }
 }
