@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-08-10T07:45:57.892Z",
+  "generatedAt": "2026-08-11T07:11:23.974Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "url": "https://www.qbitai.com/2026/08/469500.html",
-      "publishedAt": "2026-08-10T05:37:51.000Z",
-      "summary": "会话越长，人的表现越差"
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "url": "https://www.qbitai.com/2026/08/470485.html",
+      "publishedAt": "2026-08-11T05:12:20.000Z",
+      "summary": "把下界推高了一大截"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "url": "https://www.qbitai.com/2026/08/469493.html",
-      "publishedAt": "2026-08-10T03:24:23.000Z",
-      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
+      "title": "宇树会破发吗？王兴兴回应了",
+      "url": "https://www.qbitai.com/2026/08/470307.html",
+      "publishedAt": "2026-08-11T04:42:50.000Z",
+      "summary": "200问回应一切"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
-      "url": "https://www.qbitai.com/2026/08/469475.html",
-      "publishedAt": "2026-08-10T02:34:48.000Z",
-      "summary": "先解决这轮内存荒！"
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "url": "https://www.qbitai.com/2026/08/470254.html",
+      "publishedAt": "2026-08-11T04:31:39.000Z",
+      "summary": "真就把GPU当理财产品了～"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-      "url": "https://www.qbitai.com/2026/08/469454.html",
-      "publishedAt": "2026-08-10T02:25:55.000Z",
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "url": "https://www.qbitai.com/2026/08/470228.html",
+      "publishedAt": "2026-08-11T03:51:24.000Z",
+      "summary": "大水印时代来了"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "url": "https://www.qbitai.com/2026/08/469880.html",
+      "publishedAt": "2026-08-11T03:37:31.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
-      "url": "https://www.qbitai.com/2026/08/469213.html",
-      "publishedAt": "2026-08-10T01:34:10.000Z",
-      "summary": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-      "url": "https://www.qbitai.com/2026/08/469076.html",
-      "publishedAt": "2026-08-10T01:12:33.000Z",
-      "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "url": "https://www.qbitai.com/2026/08/469869.html",
+      "publishedAt": "2026-08-11T03:11:12.000Z",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
     }
   ],
   "stats": {
