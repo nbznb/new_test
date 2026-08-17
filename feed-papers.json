@@ -1,53 +1,35 @@
 {
-  "generatedAt": "2026-08-16T06:42:36.392Z",
+  "generatedAt": "2026-08-17T06:58:56.969Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "publishedAt": "2026-08-16T05:37:39.000Z",
-      "summary": "背后是四项关键能力"
+      "title": "杭州95后小伙，5亿买走硅谷城堡",
+      "url": "https://www.qbitai.com/2026/08/474245.html",
+      "publishedAt": "2026-08-16T11:51:08.000Z",
+      "summary": "辞别马斯克xAI半年之后…"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "url": "https://www.qbitai.com/2026/08/473947.html",
-      "publishedAt": "2026-08-16T05:28:42.000Z",
-      "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。"
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "url": "https://www.qbitai.com/2026/08/474140.html",
+      "publishedAt": "2026-08-16T10:45:47.000Z",
+      "summary": "AI不是替代者，而是个人能力的放大镜"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "url": "https://www.qbitai.com/2026/08/473876.html",
-      "publishedAt": "2026-08-15T06:42:23.000Z",
-      "summary": "理解大模型，无需再训练一个替代网络"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "url": "https://www.qbitai.com/2026/08/473866.html",
-      "publishedAt": "2026-08-15T06:36:05.000Z",
-      "summary": "音潮API限时免费开放"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "url": "https://www.qbitai.com/2026/08/473669.html",
-      "publishedAt": "2026-08-15T06:05:31.000Z",
-      "summary": "推理能力还能自定义"
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "url": "https://www.qbitai.com/2026/08/474064.html",
+      "publishedAt": "2026-08-16T10:36:47.000Z",
+      "summary": "“错过种一棵树最好的时间”"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 3
   }
 }
