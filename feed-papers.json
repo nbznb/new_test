@@ -1,35 +1,62 @@
 {
-  "generatedAt": "2026-08-17T06:58:56.969Z",
+  "generatedAt": "2026-08-18T06:46:34.140Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "杭州95后小伙，5亿买走硅谷城堡",
-      "url": "https://www.qbitai.com/2026/08/474245.html",
-      "publishedAt": "2026-08-16T11:51:08.000Z",
-      "summary": "辞别马斯克xAI半年之后…"
+      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+      "url": "https://www.qbitai.com/2026/08/474673.html",
+      "publishedAt": "2026-08-18T05:58:57.000Z",
+      "summary": "回头看，A社就这样完成了反超"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "url": "https://www.qbitai.com/2026/08/474140.html",
-      "publishedAt": "2026-08-16T10:45:47.000Z",
-      "summary": "AI不是替代者，而是个人能力的放大镜"
+      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+      "url": "https://www.qbitai.com/2026/08/474647.html",
+      "publishedAt": "2026-08-18T04:40:03.000Z",
+      "summary": "MyContext补上Agent的数据加工层"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-      "url": "https://www.qbitai.com/2026/08/474064.html",
-      "publishedAt": "2026-08-16T10:36:47.000Z",
-      "summary": "“错过种一棵树最好的时间”"
+      "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+      "url": "https://www.qbitai.com/2026/08/474611.html",
+      "publishedAt": "2026-08-18T03:31:33.000Z",
+      "summary": "ALL IN国产算力生态"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "publishedAt": "2026-08-17T09:30:49.000Z",
+      "summary": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "publishedAt": "2026-08-17T09:04:37.000Z",
+      "summary": "没有遥控、没人喂球"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "publishedAt": "2026-08-17T08:36:07.000Z",
+      "summary": "AI最近最出圈的数学突破，都在“找反例”"
     }
   ],
   "stats": {
-    "paperItems": 3
+    "paperItems": 6
   }
 }
