@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-08-20T06:49:24.481Z",
+  "generatedAt": "2026-08-21T06:51:12.737Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-      "url": "https://www.qbitai.com/2026/08/476078.html",
-      "publishedAt": "2026-08-20T01:37:34.000Z",
-      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
+      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "publishedAt": "2026-08-21T04:05:11.000Z",
+      "summary": "离开谷歌的原因之一：小团队可以极致聚焦！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-      "url": "https://www.qbitai.com/2026/08/476075.html",
-      "publishedAt": "2026-08-20T01:21:07.000Z",
-      "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放"
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "url": "https://www.qbitai.com/2026/08/476413.html",
+      "publishedAt": "2026-08-21T03:14:40.000Z",
+      "summary": "墨奇，开始加速了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-      "url": "https://www.qbitai.com/2026/08/476070.html",
-      "publishedAt": "2026-08-20T01:06:45.000Z",
-      "summary": "成本也正成为Agent商业化需要考虑的重要因素"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "publishedAt": "2026-08-19T10:54:07.000Z",
+      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "url": "https://www.qbitai.com/2026/08/476409.html",
+      "publishedAt": "2026-08-21T02:31:10.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "url": "https://www.qbitai.com/2026/08/475907.html",
-      "publishedAt": "2026-08-19T10:12:09.000Z",
-      "summary": "超维动力KAI全栈具身智能硬核登场"
+      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
+      "url": "https://www.qbitai.com/2026/08/476406.html",
+      "publishedAt": "2026-08-21T02:26:49.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-      "url": "https://www.qbitai.com/2026/08/475901.html",
-      "publishedAt": "2026-08-19T08:34:36.000Z",
-      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
+      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
+      "url": "https://www.qbitai.com/2026/08/476403.html",
+      "publishedAt": "2026-08-21T02:22:43.000Z",
+      "summary": ""
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
+      "url": "https://www.qbitai.com/2026/08/476400.html",
+      "publishedAt": "2026-08-21T02:15:28.000Z",
+      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。"
     }
   ],
   "stats": {
