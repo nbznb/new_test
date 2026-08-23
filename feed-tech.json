@@ -1,44 +1,7 @@
 {
-  "generatedAt": "2026-08-22T06:42:31.406Z",
-  "tech": [
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "publishedAt": "2026-08-21T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Mother tongue",
-      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The…"
-    }
-  ],
+  "generatedAt": "2026-08-23T06:43:30.717Z",
+  "tech": [],
   "stats": {
-    "techItems": 4
+    "techItems": 0
   }
 }
