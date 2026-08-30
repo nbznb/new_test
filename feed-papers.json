@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-08-29T12:28:31.334Z",
+  "generatedAt": "2026-08-30T11:29:30.010Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "url": "https://www.qbitai.com/2026/08/480487.html",
-      "publishedAt": "2026-08-28T06:13:59.000Z",
-      "summary": "Claude觉醒超体"
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "publishedAt": "2026-08-29T13:11:08.000Z",
+      "summary": "推理软件栈的微小差异，就能改变输出token"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
-      "url": "https://www.qbitai.com/2026/08/480236.html",
-      "publishedAt": "2026-08-28T05:49:05.000Z",
-      "summary": "重新审视触视觉"
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "url": "https://www.qbitai.com/2026/08/481318.html",
+      "publishedAt": "2026-08-29T13:01:34.000Z",
+      "summary": "本科读车辆工程，如今教AI第一班"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-      "url": "https://www.qbitai.com/2026/08/480227.html",
-      "publishedAt": "2026-08-28T04:09:39.000Z",
-      "summary": "国产算力跑通视频生成规模化应用"
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "url": "https://www.qbitai.com/2026/08/481223.html",
+      "publishedAt": "2026-08-29T12:50:31.000Z",
+      "summary": "AI「自进化」，越来越近了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-      "url": "https://www.qbitai.com/2026/08/480223.html",
-      "publishedAt": "2026-08-28T04:06:16.000Z",
-      "summary": "国产异构助力前沿智能进入普惠时代"
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "url": "https://www.qbitai.com/2026/08/481075.html",
+      "publishedAt": "2026-08-29T12:26:49.000Z",
+      "summary": "3秒可处理200份PDF"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "url": "https://www.qbitai.com/2026/08/480940.html",
+      "publishedAt": "2026-08-29T12:11:37.000Z",
+      "summary": "Coding正在变成Al世界的数字执行力"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "OpenClaw：红过，爱过，散了",
+      "url": "https://www.qbitai.com/2026/08/480855.html",
+      "publishedAt": "2026-08-29T12:00:51.000Z",
+      "summary": "龙虾退潮，Harness上位"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
