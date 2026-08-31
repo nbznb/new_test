@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-08-30T11:29:30.010Z",
+  "generatedAt": "2026-08-31T13:01:22.401Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "publishedAt": "2026-08-29T13:11:08.000Z",
-      "summary": "推理软件栈的微小差异，就能改变输出token"
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "publishedAt": "2026-08-31T07:53:12.000Z",
+      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "url": "https://www.qbitai.com/2026/08/481318.html",
-      "publishedAt": "2026-08-29T13:01:34.000Z",
-      "summary": "本科读车辆工程，如今教AI第一班"
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "publishedAt": "2026-08-31T07:34:02.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "url": "https://www.qbitai.com/2026/08/481223.html",
-      "publishedAt": "2026-08-29T12:50:31.000Z",
-      "summary": "AI「自进化」，越来越近了"
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "publishedAt": "2026-08-31T04:47:26.000Z",
+      "summary": "核弹爆炸"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-      "url": "https://www.qbitai.com/2026/08/481075.html",
-      "publishedAt": "2026-08-29T12:26:49.000Z",
-      "summary": "3秒可处理200份PDF"
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "publishedAt": "2026-08-31T03:24:34.000Z",
+      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "url": "https://www.qbitai.com/2026/08/480940.html",
-      "publishedAt": "2026-08-29T12:11:37.000Z",
-      "summary": "Coding正在变成Al世界的数字执行力"
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "publishedAt": "2026-08-31T03:11:46.000Z",
+      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenClaw：红过，爱过，散了",
-      "url": "https://www.qbitai.com/2026/08/480855.html",
-      "publishedAt": "2026-08-29T12:00:51.000Z",
-      "summary": "龙虾退潮，Harness上位"
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "publishedAt": "2026-08-31T03:01:29.000Z",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
     }
   ],
   "stats": {
