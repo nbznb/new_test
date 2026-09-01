@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-08-31T13:01:22.401Z",
+  "generatedAt": "2026-09-01T11:17:48.132Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "url": "https://www.qbitai.com/2026/08/481923.html",
-      "publishedAt": "2026-08-31T07:53:12.000Z",
-      "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务"
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "url": "https://www.qbitai.com/2026/09/482469.html",
+      "publishedAt": "2026-09-01T08:26:54.000Z",
+      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
-      "publishedAt": "2026-08-31T07:34:02.000Z",
-      "summary": ""
+      "title": "急急急用电！马斯克开造燃气轮机叶片",
+      "url": "https://www.qbitai.com/2026/09/482451.html",
+      "publishedAt": "2026-09-01T08:24:12.000Z",
+      "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-      "url": "https://www.qbitai.com/2026/08/481893.html",
-      "publishedAt": "2026-08-31T04:47:26.000Z",
-      "summary": "核弹爆炸"
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "url": "https://www.qbitai.com/2026/09/482406.html",
+      "publishedAt": "2026-09-01T08:15:40.000Z",
+      "summary": "主打一个明升暗降，理直气壮"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-      "url": "https://www.qbitai.com/2026/08/481759.html",
-      "publishedAt": "2026-08-31T03:24:34.000Z",
-      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "publishedAt": "2026-09-01T05:12:30.000Z",
+      "summary": "参数冻结，能力暴涨"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-      "url": "https://www.qbitai.com/2026/08/481750.html",
-      "publishedAt": "2026-08-31T03:11:46.000Z",
-      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "url": "https://www.qbitai.com/2026/09/482300.html",
+      "publishedAt": "2026-09-01T04:12:49.000Z",
+      "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-      "url": "https://www.qbitai.com/2026/08/481475.html",
-      "publishedAt": "2026-08-31T03:01:29.000Z",
-      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "publishedAt": "2026-08-31T13:20:29.000Z",
+      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
     }
   ],
   "stats": {
