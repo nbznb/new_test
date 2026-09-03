@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-09-02T10:52:42.385Z",
+  "generatedAt": "2026-09-03T10:52:13.946Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "url": "https://www.qbitai.com/2026/09/483274.html",
-      "publishedAt": "2026-09-02T09:22:16.000Z",
-      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线"
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "publishedAt": "2026-09-03T03:16:43.000Z",
+      "summary": "从工厂一路干到家庭"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "publishedAt": "2026-09-02T06:20:17.000Z",
-      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "url": "https://www.qbitai.com/2026/09/483101.html",
-      "publishedAt": "2026-09-02T06:10:26.000Z",
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "publishedAt": "2026-09-03T01:31:45.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-      "url": "https://www.qbitai.com/2026/09/483097.html",
-      "publishedAt": "2026-09-02T06:06:50.000Z",
-      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "publishedAt": "2026-09-03T01:27:05.000Z",
+      "summary": "4激光雷达+双M100上车"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "url": "https://www.qbitai.com/2026/09/482967.html",
-      "publishedAt": "2026-09-02T02:48:06.000Z",
-      "summary": "AI客服日扛1.5万通电话"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "url": "https://www.qbitai.com/2026/09/482652.html",
-      "publishedAt": "2026-09-02T02:18:12.000Z",
-      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "publishedAt": "2026-09-03T00:51:16.000Z",
+      "summary": "遥操，可能真的危险了"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
