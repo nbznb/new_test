@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-09-03T10:52:13.946Z",
+  "generatedAt": "2026-09-04T10:58:01.339Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "url": "https://www.qbitai.com/2026/09/483565.html",
-      "publishedAt": "2026-09-03T03:16:43.000Z",
-      "summary": "从工厂一路干到家庭"
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "publishedAt": "2026-09-04T09:23:24.000Z",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "url": "https://www.qbitai.com/2026/09/483552.html",
-      "publishedAt": "2026-09-03T01:31:45.000Z",
-      "summary": ""
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "publishedAt": "2026-09-04T09:19:29.000Z",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-      "url": "https://www.qbitai.com/2026/09/483462.html",
-      "publishedAt": "2026-09-03T01:27:05.000Z",
-      "summary": "4激光雷达+双M100上车"
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "publishedAt": "2026-09-04T08:57:14.000Z",
+      "summary": "不训练模型、不调参数"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "今年最难的机器人Demo，“机器人含量”为0",
-      "url": "https://www.qbitai.com/2026/09/483351.html",
-      "publishedAt": "2026-09-03T00:51:16.000Z",
-      "summary": "遥操，可能真的危险了"
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "url": "https://www.qbitai.com/2026/09/484203.html",
+      "publishedAt": "2026-09-04T07:09:43.000Z",
+      "summary": "5000支队伍同台做题，写尽行业四年变化"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "url": "https://www.qbitai.com/2026/09/484163.html",
+      "publishedAt": "2026-09-04T06:54:12.000Z",
+      "summary": "智能不只是模式识别，更是对世界的建模"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "url": "https://www.qbitai.com/2026/09/484159.html",
+      "publishedAt": "2026-09-04T05:53:09.000Z",
+      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
