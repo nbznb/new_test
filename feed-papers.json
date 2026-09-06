@@ -1,44 +1,35 @@
 {
-  "generatedAt": "2026-09-05T10:09:40.013Z",
+  "generatedAt": "2026-09-06T10:30:30.271Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "publishedAt": "2026-09-05T04:24:25.000Z",
-      "summary": "AI直接吐出正确答案，但最关键的可能不是答案"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "publishedAt": "2026-09-05T04:18:54.000Z",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "url": "https://www.qbitai.com/2026/09/484551.html",
-      "publishedAt": "2026-09-05T01:17:56.000Z",
-      "summary": "最后靠Harness救回来"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "url": "https://www.qbitai.com/2026/09/484155.html",
-      "publishedAt": "2026-09-04T05:48:53.000Z",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "publishedAt": "2026-09-06T04:40:15.000Z",
       "summary": ""
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "publishedAt": "2026-09-05T15:07:08.000Z",
+      "summary": "手握两篇顶会论文"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "url": "https://www.qbitai.com/2026/09/484683.html",
+      "publishedAt": "2026-09-05T14:46:15.000Z",
+      "summary": "当AI开始“预演”一场暴雨"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 3
   }
 }
