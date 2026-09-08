@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-07T11:53:21.354Z",
-  "tech": [],
+  "generatedAt": "2026-09-08T10:50:03.332Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "publishedAt": "2026-09-07T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 1
   }
 }

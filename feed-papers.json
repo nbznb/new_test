@@ -1,62 +1,53 @@
 {
-  "generatedAt": "2026-09-07T11:53:21.354Z",
+  "generatedAt": "2026-09-08T10:50:03.333Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "url": "https://www.qbitai.com/2026/09/485525.html",
-      "publishedAt": "2026-09-07T09:34:06.000Z",
-      "summary": "谁说现在机器人都长得差不多的！"
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "publishedAt": "2026-09-08T06:05:30.000Z",
+      "summary": "Blender也不用学了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "url": "https://www.qbitai.com/2026/09/485431.html",
-      "publishedAt": "2026-09-07T09:04:06.000Z",
-      "summary": "OpenAI研究院人均带3个AI实习生"
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "url": "https://www.qbitai.com/2026/09/485794.html",
+      "publishedAt": "2026-09-08T05:05:03.000Z",
+      "summary": "百万奖金、大厂直通、VC跟投"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "url": "https://www.qbitai.com/2026/09/485154.html",
-      "publishedAt": "2026-09-07T08:51:30.000Z",
-      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。"
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "url": "https://www.qbitai.com/2026/09/485784.html",
+      "publishedAt": "2026-09-08T03:22:17.000Z",
+      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "url": "https://www.qbitai.com/2026/09/485108.html",
-      "publishedAt": "2026-09-07T08:36:30.000Z",
-      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”"
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "url": "https://www.qbitai.com/2026/09/485630.html",
+      "publishedAt": "2026-09-08T02:42:24.000Z",
+      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "url": "https://www.qbitai.com/2026/09/485064.html",
-      "publishedAt": "2026-09-07T06:53:26.000Z",
-      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "url": "https://www.qbitai.com/2026/09/485056.html",
-      "publishedAt": "2026-09-07T06:03:34.000Z",
-      "summary": ""
+      "title": "王云鹤创业后交出首个模型",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "publishedAt": "2026-09-08T02:14:47.000Z",
+      "summary": "把多模型执行经验用到了模型训练"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 5
   }
 }
