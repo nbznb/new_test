@@ -1,53 +1,44 @@
 {
-  "generatedAt": "2026-09-08T10:50:03.333Z",
+  "generatedAt": "2026-09-09T10:56:22.832Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
-      "publishedAt": "2026-09-08T06:05:30.000Z",
-      "summary": "Blender也不用学了"
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "publishedAt": "2026-09-09T05:02:30.000Z",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "publishedAt": "2026-09-08T05:05:03.000Z",
-      "summary": "百万奖金、大厂直通、VC跟投"
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "publishedAt": "2026-09-09T04:52:12.000Z",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "publishedAt": "2026-09-08T03:22:17.000Z",
-      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "url": "https://www.qbitai.com/2026/09/486052.html",
+      "publishedAt": "2026-09-09T03:39:58.000Z",
+      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
-      "publishedAt": "2026-09-08T02:42:24.000Z",
-      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "王云鹤创业后交出首个模型",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "publishedAt": "2026-09-08T02:14:47.000Z",
-      "summary": "把多模型执行经验用到了模型训练"
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "publishedAt": "2026-09-09T02:15:54.000Z",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 4
   }
 }
