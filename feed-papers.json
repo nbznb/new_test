@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-11T10:49:14.729Z",
+  "generatedAt": "2026-09-12T10:17:58.310Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不简单，“吃货快乐榜”也全面AI化了",
-      "url": "https://www.qbitai.com/2026/09/487282.html",
-      "publishedAt": "2026-09-11T08:59:28.000Z",
-      "summary": ""
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
+      "publishedAt": "2026-09-12T08:49:02.000Z",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "url": "https://www.qbitai.com/2026/09/487273.html",
-      "publishedAt": "2026-09-11T06:19:03.000Z",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "publishedAt": "2026-09-12T08:15:31.000Z",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "url": "https://www.qbitai.com/2026/09/487176.html",
-      "publishedAt": "2026-09-11T03:57:32.000Z",
-      "summary": "今年12月，北京，MEET2027智能未来大会！"
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "url": "https://www.qbitai.com/2026/09/487701.html",
+      "publishedAt": "2026-09-12T07:33:54.000Z",
+      "summary": "FrontierMath Tier 4，饱和了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "url": "https://www.qbitai.com/2026/09/487163.html",
-      "publishedAt": "2026-09-11T02:50:47.000Z",
-      "summary": ""
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "url": "https://www.qbitai.com/2026/09/487688.html",
+      "publishedAt": "2026-09-12T05:58:41.000Z",
+      "summary": "冲刺港股IPO"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
-      "publishedAt": "2026-09-11T01:46:55.000Z",
-      "summary": "爆料直指霍奇猜想"
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "publishedAt": "2026-09-12T04:53:58.000Z",
+      "summary": "25位菲尔兹奖得主联名吹哨"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-      "url": "https://www.qbitai.com/2026/09/487055.html",
-      "publishedAt": "2026-09-11T00:55:01.000Z",
-      "summary": "15秒视频，50秒出片"
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "publishedAt": "2026-09-11T18:02:36.000Z",
+      "summary": "看清「一个真正的人」"
     }
   ],
   "stats": {
