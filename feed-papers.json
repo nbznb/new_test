@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-14T12:08:11.449Z",
+  "generatedAt": "2026-09-15T11:19:48.504Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "url": "https://www.qbitai.com/2026/09/489105.html",
-      "publishedAt": "2026-09-14T09:47:07.000Z",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "url": "https://www.qbitai.com/2026/09/489106.html",
-      "publishedAt": "2026-09-14T09:46:40.000Z",
-      "summary": "业界首个5A算电协同认证"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "url": "https://www.qbitai.com/2026/09/489037.html",
-      "publishedAt": "2026-09-14T09:36:28.000Z",
+      "title": "Hacked by CoupDeGrace",
+      "url": "https://www.qbitai.com/2026/09/489371.html",
+      "publishedAt": "2026-09-15T07:58:38.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-      "url": "https://www.qbitai.com/2026/09/489023.html",
-      "publishedAt": "2026-09-14T08:17:22.000Z",
-      "summary": "AI 蛋白质设计迈入“动态时代”"
+      "title": "Hacked by CoupDeGrace",
+      "url": "https://www.qbitai.com/2026/09/489365.html",
+      "publishedAt": "2026-09-15T07:33:50.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
-      "url": "https://www.qbitai.com/2026/09/488933.html",
-      "publishedAt": "2026-09-14T08:08:29.000Z",
-      "summary": "让模型和设备共同进化"
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "url": "https://www.qbitai.com/2026/09/489337.html",
+      "publishedAt": "2026-09-15T06:37:16.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-      "url": "https://www.qbitai.com/2026/09/488912.html",
-      "publishedAt": "2026-09-14T07:55:12.000Z",
-      "summary": "险资、券商与头部创投持续加码"
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "url": "https://www.qbitai.com/2026/09/489288.html",
+      "publishedAt": "2026-09-15T05:39:10.000Z",
+      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "url": "https://www.qbitai.com/2026/09/489277.html",
+      "publishedAt": "2026-09-15T05:20:30.000Z",
+      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "publishedAt": "2026-09-15T02:17:34.000Z",
+      "summary": "几百个Agent参与研发，AI开始造AI"
     }
   ],
   "stats": {
