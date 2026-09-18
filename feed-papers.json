@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-17T11:13:19.810Z",
+  "generatedAt": "2026-09-18T10:46:17.697Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "url": "https://www.qbitai.com/2026/09/491391.html",
-      "publishedAt": "2026-09-17T09:07:25.000Z",
-      "summary": "文档和PPT都能做了"
+      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
+      "url": "https://www.qbitai.com/2026/09/492015.html",
+      "publishedAt": "2026-09-18T09:19:37.000Z",
+      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，唐杰发布智谱RSI首个成果",
-      "url": "https://www.qbitai.com/2026/09/491357.html",
-      "publishedAt": "2026-09-17T08:28:23.000Z",
-      "summary": "GLM已经开始参与构建GLM了"
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "publishedAt": "2026-09-18T06:11:06.000Z",
+      "summary": "用通用AI去啃最硬的骨头，这条路走得通"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克睡进工地！为AI基建拼了",
-      "url": "https://www.qbitai.com/2026/09/491280.html",
-      "publishedAt": "2026-09-17T04:37:26.000Z",
-      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）"
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "publishedAt": "2026-09-18T00:37:13.000Z",
+      "summary": "作价40亿美元推进新融资"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-      "url": "https://www.qbitai.com/2026/09/491147.html",
-      "publishedAt": "2026-09-17T03:39:43.000Z",
-      "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动"
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "publishedAt": "2026-09-18T00:34:34.000Z",
+      "summary": "Git白学了？？？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "url": "https://www.qbitai.com/2026/09/491091.html",
-      "publishedAt": "2026-09-17T03:26:21.000Z",
-      "summary": "1亿Tokens人人免费领"
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "publishedAt": "2026-09-17T12:03:24.000Z",
+      "summary": "构建个体专属AI助理"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "url": "https://www.qbitai.com/2026/09/491062.html",
-      "publishedAt": "2026-09-17T02:01:15.000Z",
-      "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行"
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
+      "publishedAt": "2026-09-17T11:56:13.000Z",
+      "summary": "工程师的核心永远是Problem Solving。"
     }
   ],
   "stats": {
