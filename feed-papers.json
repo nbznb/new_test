@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-20T10:53:13.297Z",
+  "generatedAt": "2026-09-21T12:16:30.974Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "url": "https://www.qbitai.com/2026/09/492939.html",
-      "publishedAt": "2026-09-20T08:30:32.000Z",
-      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+      "url": "https://www.qbitai.com/2026/09/493268.html",
+      "publishedAt": "2026-09-21T08:25:44.000Z",
+      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "url": "https://www.qbitai.com/2026/09/492912.html",
-      "publishedAt": "2026-09-20T08:01:13.000Z",
-      "summary": "亚马逊云科技给企业安全用Agent打了个样"
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "url": "https://www.qbitai.com/2026/09/493241.html",
+      "publishedAt": "2026-09-21T08:21:55.000Z",
+      "summary": "97%尝试危险行为"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-      "url": "https://www.qbitai.com/2026/09/492873.html",
-      "publishedAt": "2026-09-20T07:51:09.000Z",
-      "summary": "腾势Z9S迎来成都车展首秀"
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "url": "https://www.qbitai.com/2026/09/493235.html",
+      "publishedAt": "2026-09-21T07:52:46.000Z",
+      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "url": "https://www.qbitai.com/2026/09/492849.html",
-      "publishedAt": "2026-09-20T02:48:18.000Z",
-      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "url": "https://www.qbitai.com/2026/09/493231.html",
+      "publishedAt": "2026-09-21T07:31:26.000Z",
+      "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "“留给人类阻止AI的时间不多了”",
-      "url": "https://www.qbitai.com/2026/09/492755.html",
-      "publishedAt": "2026-09-19T11:53:12.000Z",
-      "summary": "AI有可能终结我们所有人"
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "url": "https://www.qbitai.com/2026/09/493218.html",
+      "publishedAt": "2026-09-21T06:22:37.000Z",
+      "summary": "在物理世界真正干活的具身智能体"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "url": "https://www.qbitai.com/2026/09/492661.html",
-      "publishedAt": "2026-09-19T11:48:06.000Z",
-      "summary": "老马想买倒闭公司数据为哪般"
+      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+      "url": "https://www.qbitai.com/2026/09/493179.html",
+      "publishedAt": "2026-09-21T03:46:43.000Z",
+      "summary": "激活参数仅27B"
     }
   ],
   "stats": {
