@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-24T11:19:13.818Z",
+  "generatedAt": "2026-09-25T11:24:18.402Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-      "url": "https://www.qbitai.com/2026/09/496816.html",
-      "publishedAt": "2026-09-24T08:20:12.000Z",
-      "summary": "人类演示一次，机器人即可实现跨场景任务复用"
+      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+      "url": "https://www.qbitai.com/2026/09/497108.html",
+      "publishedAt": "2026-09-25T10:00:14.000Z",
+      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-      "url": "https://www.qbitai.com/2026/09/496779.html",
-      "publishedAt": "2026-09-24T05:46:10.000Z",
-      "summary": "Stripe Managed Payments (SMP) 现已全面上线"
+      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+      "url": "https://www.qbitai.com/2026/09/497075.html",
+      "publishedAt": "2026-09-25T06:20:56.000Z",
+      "summary": "Agent的手越伸越长"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-      "url": "https://www.qbitai.com/2026/09/496778.html",
-      "publishedAt": "2026-09-24T05:45:20.000Z",
-      "summary": "专治人机动作对不齐"
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "publishedAt": "2026-09-25T06:14:07.000Z",
+      "summary": "一场物理世界的基模实验"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-      "url": "https://www.qbitai.com/2026/09/496767.html",
-      "publishedAt": "2026-09-24T05:19:55.000Z",
-      "summary": "开源一座具身智能的新“塔台”"
+      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+      "url": "https://www.qbitai.com/2026/09/497060.html",
+      "publishedAt": "2026-09-25T06:11:10.000Z",
+      "summary": "人工外包团队"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "url": "https://www.qbitai.com/2026/09/496658.html",
-      "publishedAt": "2026-09-24T02:51:18.000Z",
-      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布"
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "url": "https://www.qbitai.com/2026/09/497012.html",
+      "publishedAt": "2026-09-25T05:52:18.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "url": "https://www.qbitai.com/2026/09/496647.html",
-      "publishedAt": "2026-09-24T02:23:12.000Z",
-      "summary": "美国也开启了全民养虾狂潮"
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496961.html",
+      "publishedAt": "2026-09-24T14:20:14.000Z",
+      "summary": "懂出海，能记忆，自进化"
     }
   ],
   "stats": {
