@@ -1,35 +1,17 @@
 {
-  "generatedAt": "2026-09-25T11:24:18.402Z",
+  "generatedAt": "2026-09-26T11:00:26.865Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "publishedAt": "2026-09-25T09:16:25.000Z",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "publishedAt": "2026-09-25T09:00:00.000Z",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "publishedAt": "2026-09-24T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…"
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "publishedAt": "2026-09-25T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…"
     }
   ],
   "stats": {
-    "techItems": 3
+    "techItems": 1
   }
 }
