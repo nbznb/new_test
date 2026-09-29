@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-28T13:13:20.141Z",
+  "generatedAt": "2026-09-29T12:21:29.473Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-      "url": "https://www.qbitai.com/2026/09/498877.html",
-      "publishedAt": "2026-09-28T12:43:53.000Z",
-      "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "url": "https://www.qbitai.com/2026/09/499239.html",
+      "publishedAt": "2026-09-29T10:56:33.000Z",
+      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "HC归来，华为正重新定义AIDC基础设施",
-      "url": "https://www.qbitai.com/2026/09/498787.html",
-      "publishedAt": "2026-09-28T11:18:27.000Z",
-      "summary": "AI基础设施下一站：算电协同"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "publishedAt": "2026-09-27T14:20:35.000Z",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "url": "https://www.qbitai.com/2026/09/499188.html",
+      "publishedAt": "2026-09-29T07:59:46.000Z",
       "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "publishedAt": "2026-09-27T13:57:57.000Z",
-      "summary": "想让开发者“说句话就能跑量子计算”"
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "publishedAt": "2026-09-29T07:49:20.000Z",
+      "summary": "AGI计划暂停。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "url": "https://www.qbitai.com/2026/09/498584.html",
-      "publishedAt": "2026-09-27T13:40:02.000Z",
-      "summary": "中秋假期文具OpenRouter调用日榜榜首"
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "url": "https://www.qbitai.com/2026/09/499135.html",
+      "publishedAt": "2026-09-29T07:10:59.000Z",
+      "summary": "诺因从Demo走向家庭"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "publishedAt": "2026-09-29T00:49:30.000Z",
+      "summary": "李飞飞将入职AMD首席科学家"
     }
   ],
   "stats": {
