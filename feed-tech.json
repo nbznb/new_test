@@ -1,44 +1,26 @@
 {
-  "generatedAt": "2026-10-01T12:40:33.560Z",
+  "generatedAt": "2026-10-02T12:05:07.966Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "publishedAt": "2026-10-01T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…"
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "publishedAt": "2026-10-02T09:00:00.000Z",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "publishedAt": "2026-10-01T10:32:24.000Z",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each pair is what…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,…"
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…"
     }
   ],
   "stats": {
-    "techItems": 4
+    "techItems": 2
   }
 }
