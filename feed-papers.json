@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-03T11:16:59.163Z",
+  "generatedAt": "2026-10-04T11:56:47.984Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
-      "publishedAt": "2026-10-03T07:54:43.000Z",
-      "summary": "岗位JD甩了篇技术报告"
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "publishedAt": "2026-10-04T06:12:22.000Z",
+      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "publishedAt": "2026-10-03T04:41:24.000Z",
-      "summary": "又咋啦。。。"
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "publishedAt": "2026-10-04T06:05:35.000Z",
+      "summary": "什么是FDE？它会一直存在吗？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "publishedAt": "2026-10-03T02:38:19.000Z",
-      "summary": ""
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "publishedAt": "2026-10-04T00:53:29.000Z",
+      "summary": "专业3D模型反而更稀缺了"
     }
   ],
   "stats": {
