@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:58:11.509Z",
+  "generatedAt": "2026-10-07T12:52:42.122Z",
   "official": [
     {
       "source": "official",
@@ -303,7 +303,6 @@
     "officialItems": 27
   },
   "errors": [
-    "official: USTC Academic Affairs: fetch failed",
     "official: USTC Department of Environmental Science and Engineering: fetch failed"
   ]
 }
