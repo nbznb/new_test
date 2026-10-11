@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-10-10T12:05:47.651Z",
+  "generatedAt": "2026-10-11T12:19:13.446Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "publishedAt": "2026-10-10T06:59:02.000Z",
-      "summary": "马斯克反而发文道谢？"
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "publishedAt": "2026-10-11T09:04:31.000Z",
+      "summary": "一套生成论文初稿的多智能体工作流"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "publishedAt": "2026-10-09T03:52:21.000Z",
-      "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "publishedAt": "2026-10-11T08:59:06.000Z",
+      "summary": "多模态模型的视觉原生Harness，来了！"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-      "url": "https://www.qbitai.com/2026/10/502114.html",
-      "publishedAt": "2026-10-09T02:51:10.000Z",
-      "summary": "江淮再度跌停"
+      "title": "陶哲轩：数学2.0时代已至！",
+      "url": "https://www.qbitai.com/2026/10/502594.html",
+      "publishedAt": "2026-10-11T07:52:16.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "url": "https://www.qbitai.com/2026/10/502106.html",
-      "publishedAt": "2026-10-09T02:37:22.000Z",
-      "summary": "多Agent协同还能自我进化"
+      "title": "王的猜想，刚刚扩展到四维",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
+      "publishedAt": "2026-10-11T05:23:47.000Z",
+      "summary": ""
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "publishedAt": "2026-10-11T05:22:38.000Z",
+      "summary": "马斯克连横A社，硅谷VC开始囤GPU"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "url": "https://www.qbitai.com/2026/10/502550.html",
+      "publishedAt": "2026-10-11T05:18:04.000Z",
+      "summary": "初代4o的API快照进入停用倒计时"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
