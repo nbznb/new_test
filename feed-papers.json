@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-10-15T11:01:43.106Z",
+  "generatedAt": "2026-10-16T10:57:40.990Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-      "url": "https://www.qbitai.com/2026/10/503303.html",
-      "publishedAt": "2026-10-15T01:56:20.000Z",
-      "summary": "给企业Agent打了个样"
+      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+      "url": "https://www.qbitai.com/2026/10/503645.html",
+      "publishedAt": "2026-10-15T10:07:08.000Z",
+      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-      "url": "https://www.qbitai.com/2026/10/503294.html",
-      "publishedAt": "2026-10-14T10:41:47.000Z",
-      "summary": "“具身进实景，劳动最光荣”"
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "publishedAt": "2026-10-15T09:43:29.000Z",
+      "summary": "Siri AI这次不包括在内"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
-      "publishedAt": "2026-10-14T04:09:29.000Z",
-      "summary": "从“懂空间”到“能干活”"
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "url": "https://www.qbitai.com/2026/10/503614.html",
+      "publishedAt": "2026-10-15T08:48:31.000Z",
+      "summary": "Agent究竟该如何深入业务毛细血管？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
-      "publishedAt": "2026-10-14T03:32:48.000Z",
-      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent"
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "url": "https://www.qbitai.com/2026/10/503611.html",
+      "publishedAt": "2026-10-15T08:16:19.000Z",
+      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
+      "publishedAt": "2026-10-15T07:35:24.000Z",
+      "summary": "大模型好不好用，百灵拿成品说话"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "AI时代，商学院这样培养未来商业领袖",
+      "url": "https://www.qbitai.com/2026/10/503504.html",
+      "publishedAt": "2026-10-15T07:22:34.000Z",
+      "summary": "未来十年共创1000个AI课题"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
