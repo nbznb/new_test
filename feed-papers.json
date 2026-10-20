@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-10-19T12:29:27.703Z",
+  "generatedAt": "2026-10-20T11:05:48.405Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "url": "https://www.qbitai.com/2026/10/504136.html",
-      "publishedAt": "2026-10-18T11:49:49.000Z",
-      "summary": "让人人都能自由创造并体验可交互世界"
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "url": "https://www.qbitai.com/2026/10/504314.html",
+      "publishedAt": "2026-10-20T01:09:43.000Z",
+      "summary": "OpenAI只掏出一个6.1 Terra…"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "url": "https://www.qbitai.com/2026/10/504277.html",
+      "publishedAt": "2026-10-19T14:33:26.000Z",
+      "summary": "同步搭建千比特规模量子算力云平台"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "通研院孵化的团队，也盯上了RSI",
+      "url": "https://www.qbitai.com/2026/10/504294.html",
+      "publishedAt": "2026-10-19T14:31:12.000Z",
+      "summary": "当AI越来越懂你，如何让智能真正属于你？"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "url": "https://www.qbitai.com/2026/10/504266.html",
+      "publishedAt": "2026-10-19T10:27:39.000Z",
+      "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "全栈自研！国产高端互连芯片，稳了!",
+      "url": "https://www.qbitai.com/2026/10/504225.html",
+      "publishedAt": "2026-10-19T10:15:19.000Z",
+      "summary": "六年蛰伏出货80万颗"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "AI 开始挑战最复杂的系统：生命",
+      "url": "https://www.qbitai.com/2026/10/504242.html",
+      "publishedAt": "2026-10-19T10:04:18.000Z",
+      "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
     }
   ],
   "stats": {
-    "paperItems": 1
+    "paperItems": 6
   }
 }
