@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-10-21T11:22:39.390Z",
+  "generatedAt": "2026-10-22T11:21:55.997Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "publishedAt": "2026-10-21T02:37:39.000Z",
-      "summary": "先看真实问题解决力"
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "publishedAt": "2026-10-22T07:14:48.000Z",
+      "summary": "FSD一年增长70万付费用户"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "publishedAt": "2026-10-21T01:04:35.000Z",
-      "summary": "电池、电驱、超充一把梭，冬天多跑30公里"
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "publishedAt": "2026-10-22T07:11:14.000Z",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "publishedAt": "2026-10-20T13:29:54.000Z",
-      "summary": "兔皮底下，竟然是MiniMax！"
+      "title": "谁在给OpenAI供应具身数据？",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "publishedAt": "2026-10-22T07:05:59.000Z",
+      "summary": "挤进全球Physical AI核心供应链"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "publishedAt": "2026-10-20T12:50:34.000Z",
-      "summary": "把记忆原生焊进Transformer"
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "publishedAt": "2026-10-21T11:30:59.000Z",
+      "summary": "医疗AI质变时刻"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "url": "https://www.qbitai.com/2026/10/504452.html",
-      "publishedAt": "2026-10-20T09:57:35.000Z",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "publishedAt": "2026-10-21T09:45:22.000Z",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-      "url": "https://www.qbitai.com/2026/10/504435.html",
-      "publishedAt": "2026-10-20T09:13:14.000Z",
-      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。"
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "url": "https://www.qbitai.com/2026/10/504653.html",
+      "publishedAt": "2026-10-21T07:15:05.000Z",
+      "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
     }
   ],
   "stats": {
