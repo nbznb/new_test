@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-10-27T11:46:38.381Z",
+  "generatedAt": "2026-10-28T12:20:23.195Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "url": "https://www.qbitai.com/2026/10/505580.html",
-      "publishedAt": "2026-10-27T03:23:55.000Z",
-      "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。"
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "publishedAt": "2026-10-28T04:04:48.000Z",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "url": "https://www.qbitai.com/2026/10/505551.html",
-      "publishedAt": "2026-10-26T16:06:31.000Z",
-      "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
+      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "publishedAt": "2026-10-27T12:57:51.000Z",
+      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "url": "https://www.qbitai.com/2026/10/505539.html",
-      "publishedAt": "2026-10-26T09:46:13.000Z",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
+      "title": "印奇把4D雷达也端到端了",
+      "url": "https://www.qbitai.com/2026/10/505852.html",
+      "publishedAt": "2026-10-27T10:40:12.000Z",
+      "summary": "毫米波雷达，AI算力10TOPS"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "url": "https://www.qbitai.com/2026/10/505529.html",
-      "publishedAt": "2026-10-26T09:37:57.000Z",
-      "summary": "模型开始利用GPU缓存聊天？"
+      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+      "url": "https://www.qbitai.com/2026/10/505830.html",
+      "publishedAt": "2026-10-27T09:54:51.000Z",
+      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "A社联创演讲：AI奇点已来",
-      "url": "https://www.qbitai.com/2026/10/505521.html",
-      "publishedAt": "2026-10-26T09:35:14.000Z",
-      "summary": "所谓奇点，或许是AI跃过人类的那个点。"
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "publishedAt": "2026-10-27T08:46:12.000Z",
+      "summary": "无人在环进店实测啃下长尾场景"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "NeoLab第一个商业模式：转售GPU",
-      "url": "https://www.qbitai.com/2026/10/505478.html",
-      "publishedAt": "2026-10-26T09:31:47.000Z",
-      "summary": "从冲刺AGI到转售GPU。"
+      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+      "url": "https://www.qbitai.com/2026/10/505773.html",
+      "publishedAt": "2026-10-27T08:35:33.000Z",
+      "summary": "OCR 3.0时代，来了"
     }
   ],
   "stats": {
