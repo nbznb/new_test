@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-10-28T12:20:23.195Z",
+  "generatedAt": "2026-10-29T12:29:28.246Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "publishedAt": "2026-10-28T04:04:48.000Z",
-      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "publishedAt": "2026-10-29T03:27:50.000Z",
+      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "publishedAt": "2026-10-27T12:57:51.000Z",
-      "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "publishedAt": "2026-10-29T02:51:45.000Z",
+      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
-      "publishedAt": "2026-10-27T10:40:12.000Z",
-      "summary": "毫米波雷达，AI算力10TOPS"
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "publishedAt": "2026-10-29T02:18:28.000Z",
+      "summary": "用扩散模型怎么做做Agent？"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
-      "publishedAt": "2026-10-27T09:54:51.000Z",
-      "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车"
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "publishedAt": "2026-10-29T00:59:26.000Z",
+      "summary": "理想今年最后一场发布会，自研电池芯片全部上车"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
-      "publishedAt": "2026-10-27T08:46:12.000Z",
-      "summary": "无人在环进店实测啃下长尾场景"
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "publishedAt": "2026-10-29T00:03:58.000Z",
+      "summary": "能连肝数日修Bug，免疫提示词注入"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "url": "https://www.qbitai.com/2026/10/505773.html",
-      "publishedAt": "2026-10-27T08:35:33.000Z",
-      "summary": "OCR 3.0时代，来了"
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
+      "publishedAt": "2026-10-28T11:09:10.000Z",
+      "summary": "让基建作为常驻buff"
     }
   ],
   "stats": {
