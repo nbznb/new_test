@@ -1,62 +1,44 @@
 {
-  "generatedAt": "2026-10-31T11:51:51.241Z",
+  "generatedAt": "2026-11-01T12:51:28.935Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "publishedAt": "2026-10-31T05:17:50.000Z",
-      "summary": "苹果“牛奶倒河里”式操作翻红"
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "publishedAt": "2026-11-01T08:02:37.000Z",
+      "summary": "让AI像牛顿一样思考"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "publishedAt": "2026-10-31T05:11:19.000Z",
-      "summary": "AI算力利用“九九成”"
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "publishedAt": "2026-11-01T07:50:57.000Z",
+      "summary": "这事还是想得太简单了"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "url": "https://www.qbitai.com/2026/10/506855.html",
-      "publishedAt": "2026-10-31T05:05:29.000Z",
-      "summary": "200美元Ultra用户先用"
+      "title": "Jev新成果，再次引爆开源",
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "publishedAt": "2026-11-01T04:18:37.000Z",
+      "summary": "再次“性价比屠夫”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-      "url": "https://www.qbitai.com/2026/10/506819.html",
-      "publishedAt": "2026-10-30T12:58:31.000Z",
-      "summary": "xs，还要给机器人打绩效"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "publishedAt": "2026-10-30T11:05:06.000Z",
-      "summary": "之前还连登昇腾三榜第一"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "sourceSubtype": "general",
-      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-      "url": "https://www.qbitai.com/2026/10/506779.html",
-      "publishedAt": "2026-10-30T10:44:01.000Z",
-      "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "publishedAt": "2026-10-31T13:49:44.000Z",
+      "summary": "AI已经自己找到Bug并提交PR"
     }
   ],
   "stats": {
-    "paperItems": 6
+    "paperItems": 4
   }
 }
