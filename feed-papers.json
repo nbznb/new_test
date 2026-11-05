@@ -1,53 +1,62 @@
 {
-  "generatedAt": "2026-11-04T13:56:47.161Z",
+  "generatedAt": "2026-11-05T14:13:56.874Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-      "url": "https://www.qbitai.com/2026/11/507586.html",
-      "publishedAt": "2026-11-04T10:08:38.000Z",
-      "summary": "仅激活3B参数，十项基准全线提升！"
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "publishedAt": "2026-11-05T07:15:13.000Z",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-      "url": "https://www.qbitai.com/2026/11/507574.html",
-      "publishedAt": "2026-11-04T08:59:57.000Z",
-      "summary": "一场别开生面的具身智能科技盛宴"
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "url": "https://www.qbitai.com/2026/11/507782.html",
+      "publishedAt": "2026-11-05T07:10:56.000Z",
+      "summary": "spaCy作者长文炮轰"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-      "url": "https://www.qbitai.com/2026/11/507567.html",
-      "publishedAt": "2026-11-04T08:49:12.000Z",
-      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。"
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "publishedAt": "2026-11-05T05:25:37.000Z",
+      "summary": "像雇人一样雇机器人"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "url": "https://www.qbitai.com/2026/11/507533.html",
-      "publishedAt": "2026-11-04T02:49:02.000Z",
-      "summary": "长视频记忆精度飙升，问答时延最高降97%"
+      "title": "",
+      "url": "https://www.qbitai.com/2026/11/507757.html",
+      "publishedAt": "2026-11-05T03:58:41.000Z",
+      "summary": "尹希官宣离开OpenAI"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "url": "https://www.qbitai.com/2026/11/507507.html",
-      "publishedAt": "2026-11-03T13:57:11.000Z",
-      "summary": "AI接管调度运营，仓库越干越聪明"
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "publishedAt": "2026-11-05T02:01:51.000Z",
+      "summary": "Data + AI 技术实践巡展 · 上海站"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "publishedAt": "2026-11-05T01:59:37.000Z",
+      "summary": "最快6秒出图"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   }
 }
