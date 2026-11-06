@@ -1,53 +1,26 @@
 {
-  "generatedAt": "2026-11-05T14:13:56.873Z",
+  "generatedAt": "2026-11-06T13:54:52.623Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "publishedAt": "2026-11-05T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…"
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "publishedAt": "2026-11-06T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "publishedAt": "2026-11-05T10:00:00.000Z",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "publishedAt": "2026-11-04T18:50:55.000Z",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "publishedAt": "2026-11-04T18:21:40.000Z",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…"
-    },
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "publishedAt": "2026-11-04T17:08:00.000Z",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago. …"
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…"
     }
   ],
   "stats": {
-    "techItems": 5
+    "techItems": 2
   }
 }
