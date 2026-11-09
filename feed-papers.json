@@ -1,44 +1,62 @@
 {
-  "generatedAt": "2026-11-08T12:56:14.796Z",
+  "generatedAt": "2026-11-09T15:31:01.500Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "资本正在撤离“世界模型”",
-      "url": "https://www.qbitai.com/2026/11/508466.html",
-      "publishedAt": "2026-11-08T04:09:55.000Z",
-      "summary": "没有永远的夏天"
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "publishedAt": "2026-11-09T08:57:20.000Z",
+      "summary": "教授也用Claude糊弄…"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "url": "https://www.qbitai.com/2026/11/508196.html",
-      "publishedAt": "2026-11-07T03:23:29.000Z",
-      "summary": "RSI不可能无限快"
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "publishedAt": "2026-11-09T08:44:00.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
-      "publishedAt": "2026-11-06T15:21:56.000Z",
-      "summary": "Dario刚喊减速…"
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.qbitai.com/2026/11/508694.html",
+      "publishedAt": "2026-11-09T08:34:03.000Z",
+      "summary": "11月9日，千问办公发布2.0版本"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
       "sourceSubtype": "general",
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "url": "https://www.qbitai.com/2026/11/508174.html",
-      "publishedAt": "2026-11-06T09:25:59.000Z",
-      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "url": "https://www.qbitai.com/2026/11/508690.html",
+      "publishedAt": "2026-11-09T08:26:45.000Z",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "url": "https://www.qbitai.com/2026/11/508629.html",
+      "publishedAt": "2026-11-09T07:02:36.000Z",
+      "summary": "最早量产的亲自泼冷水"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "url": "https://www.qbitai.com/2026/11/508607.html",
+      "publishedAt": "2026-11-09T05:47:58.000Z",
+      "summary": "Worker不够了主管Agent还能自己招！"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   }
 }
