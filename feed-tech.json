@@ -1,26 +1,44 @@
 {
-  "generatedAt": "2026-11-12T14:48:43.969Z",
+  "generatedAt": "2026-11-13T14:07:53.111Z",
   "tech": [
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "publishedAt": "2026-11-12T13:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…"
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…"
     },
     {
       "source": "tech",
       "sourceName": "MIT Technology Review",
       "sourceSubtype": "general",
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…"
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…"
     }
   ],
   "stats": {
-    "techItems": 2
+    "techItems": 4
   }
 }
