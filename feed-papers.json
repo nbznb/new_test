@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-11-15T13:38:29.288Z",
-  "papers": [],
+  "generatedAt": "2026-11-16T15:08:52.687Z",
+  "papers": [
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "url": "https://www.qbitai.com/2026/11/510542.html",
+      "publishedAt": "2026-11-16T10:57:31.000Z",
+      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "url": "https://www.qbitai.com/2026/11/510526.html",
+      "publishedAt": "2026-11-16T08:45:17.000Z",
+      "summary": "12月1日，细数AI的未竟之问。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "url": "https://www.qbitai.com/2026/11/510496.html",
+      "publishedAt": "2026-11-16T08:02:07.000Z",
+      "summary": "在华为待了快10000天。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "url": "https://www.qbitai.com/2026/11/510493.html",
+      "publishedAt": "2026-11-16T07:58:57.000Z",
+      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "publishedAt": "2026-11-16T07:51:57.000Z",
+      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "sourceSubtype": "general",
+      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+      "url": "https://www.qbitai.com/2026/11/510436.html",
+      "publishedAt": "2026-11-16T07:26:33.000Z",
+      "summary": "余承东重新明确分工"
+    }
+  ],
   "stats": {
-    "paperItems": 0
+    "paperItems": 6
   }
 }

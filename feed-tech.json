@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-15T13:38:29.288Z",
-  "tech": [],
+  "generatedAt": "2026-11-16T15:08:52.687Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "publishedAt": "2026-11-16T13:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "sourceSubtype": "general",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 2
   }
 }
