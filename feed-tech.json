@@ -1,17 +1,7 @@
 {
-  "generatedAt": "2026-11-21T14:23:03.620Z",
-  "tech": [
-    {
-      "source": "tech",
-      "sourceName": "MIT Technology Review",
-      "sourceSubtype": "general",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "publishedAt": "2026-11-20T18:15:15.000Z",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
-    }
-  ],
+  "generatedAt": "2026-11-22T14:16:07.571Z",
+  "tech": [],
   "stats": {
-    "techItems": 1
+    "techItems": 0
   }
 }
